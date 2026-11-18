@@ -82,7 +82,7 @@ The walker moves forward along the snow-covered Bund. Begin with boots pressing 
 - **Review question.** Does one continuous head movement carry the view naturally from grounded steps to Pudong? Check boot contact, the cuff and glove, rail continuity and skyline travel during the turn. Check for a dissolve into the end frame. Listen separately for footfall sync and distance.
 - **Status.** Draft kept in the scene history. The eight-second Midnight Witness version below adds burial cues and gives the far-bank view time to register.
 
-## Next motion test — Midnight Witness walking POV
+## Prepared motion variant — Midnight Witness walking POV
 
 The snowfall is deep enough to hide the shape and footing of familiar Bund fixtures. Start at a boot pressing into a half-filled track. Read the snow height on the granite lantern plinth and remaining strip of wave-pattern steel. A gloved touch puts the drift within reach and shows its weight as it crumbles. Lift the gaze, cross the buried rail visually and find the same accumulation on Pudong's roofs, riverwalk and terraces.
 
@@ -90,4 +90,15 @@ The near snow and stone hold texture in dark charcoal and silver-gray. A fixed t
 
 - **Prepared settings.** Seedance 2.5 Omni Reference, eight seconds, 9:16, 480p, generated audio on. Assign [v03](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) to **End Frame**. [Midnight Witness walking POV prompt](Prompts/Seedance-2.5-Snowstorm-v03-8s-Walking-POV-Midnight-Witness.txt).
 - **Review question.** Do the boot, plinth, glove and far shore make the viewer feel the depth of the same storm across both banks? Check first, middle and last frames for readable burial cues, credible hand and boot contact, stable river geometry, a continuous head turn and a dark horizon. Review audio separately for contact sync and perspective.
-- **Status.** Prepared. Submission and cost pending.
+- **Status.** Earlier draft. No corresponding render has been identified locally.
+
+## Director's review — Midnight Witness walking POV v02
+
+The earlier draft sets the right scene but makes one short turn carry a snow touch, a crumble, a head lift, parallax and a match into the supplied frame. The projected risks are a staged hand insert, a fast or synthetic turn, and a skyline that appears to settle by dissolving into v03. These are prompt risks, not observed flaws in an eight-second render. In the earlier five-second lateral render, the nearly fixed skyline and moving close post are observed.
+
+- **Burial and human scale.** A step compresses the rim of an older track. On the same forward route, the eye reads an exposed granite bevel, then follows the wavy steel into a continuous drift close to the top rail. This gives the near bank two recognizable scale cues. The cuff and glove belong to the gait, with the deliberate brush removed to give the viewer time to look.
+- **Discovery and geography.** The body walks along the west bank while the head turns left. Towers move across the image with the turning gaze and retain their spacing. Hold the river view for the last two to three seconds so the pale low roofs, terraces and continuous far-bank snow can register below the landmarks. Keep the open water between the banks.
+- **Visual DNA and sound.** A fixed inland practical grazes the near granite and snow. Charcoal shadows and midnight-blue fill keep the steel readable. Different flake speeds and distant haze give the storm depth. A low roofline under dark sky gives the geography space. Hear the boot contact up close, then hear wind and distant river as the walker stops.
+- **STEPPS hypotheses.** Emotion comes from realizing the same depth of winter reaches beyond the buried fixture to a familiar far shore. Social Currency comes from recognizing the Oriental Pearl and being able to show someone a credible Shanghai under exceptional snow. Audience response is unmeasured.
+- **Recommended test.** Seedance 2.5 Omni Reference, eight seconds, 9:16, 480p, generated audio on. Attach [v03](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) as an **image reference**, with composition free to settle naturally at the end of the turn. [Revised prompt](Prompts/Seedance-2.5-Snowstorm-v03-8s-Walking-POV-Midnight-Witness-v02.txt).
+- **Review question.** At phone size with sound off, do the near rail and far roofs read as parts of the same storm in one continuous turn? Then review audio separately for footstep contact and distance. No generation submitted.
