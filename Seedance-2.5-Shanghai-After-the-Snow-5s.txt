@@ -1,0 +1,40 @@
+NOCTURNAL DREAM — FILM 001: SHANGHAI AFTER THE SNOW
+Seedance 2.5 Omni Reference — 5-Second Motion Test
+
+REFERENCE HIERARCHY — READ BEFORE GENERATING
+
+Use the uploaded real Bund photograph as REFERENCE 1. It is the sole authority for location, architecture, skyline identity, waterfront geometry, camera side, spatial relationships, and perspective. Preserve the real Huangpu River, the Bund promenade, its stone walking surface, the river-edge railing, the open water, and the actual Pudong/Lujiazui skyline arrangement visible in REFERENCE 1. The Oriental Pearl Tower, Shanghai World Financial Center, Shanghai Tower, and surrounding towers must keep credible real-world shapes, scale, spacing, and positions.
+
+Generate a new photorealistic opening frame using the Bund photograph as a geographic reference only.
+
+SHOT
+
+A single unbroken 5-second, 9:16 vertical, live-action cinematic shot on Shanghai's Bund just after an unprecedented overnight blizzard. First-person human viewpoint, eye height approximately 1.65 metres. The camera walks genuinely forward along the waterfront promenade at a natural, deliberate pace, travelling approximately 3 metres during the shot while maintaining a diagonal view across the Huangpu River toward Pudong.
+
+CAMERA MOTION — NON-NEGOTIABLE
+
+This is physical forward translation through a stable three-dimensional environment, not a digital push-in, crop, zoom, or moving still image. The camera is already walking in the opening frame and advances continuously until the final frame. Begin just before a nearby railing post so it passes out of frame within five seconds. Nearby railing posts, irregular snowbanks, footprints, and promenade details pass the camera and leave frame. New sections of the same path and railing are progressively revealed ahead. Near objects show strong lateral parallax; middle-distance objects move more slowly; the distant skyline remains visually stable. Add only subtle stabilized footstep rise-and-fall, realistic human inertia, and restrained micro-sway. The walker remains on the promenade, parallel to the river, never drifting into the railing, snowbank, or water. No pan-only movement, orbit, crane, drone, floating glide, speed ramp, or dolly zoom.
+
+WATERFRONT GEOMETRY
+
+Keep the Huangpu River open, dark, and gently flowing between the Bund and Pudong. The river must not freeze, narrow into a canal, move to the wrong side, or disappear behind invented terrain. The authentic waterfront railing follows the promenade edge continuously and remains fixed in the ground. Its posts repeat with correct perspective and spacing. The path runs longitudinally along the river; it does not point into the water or become a central fantasy canyon. Pudong remains across the river. Preserve coherent horizon, shoreline, skyline, railing, and promenade relationships throughout the shot.
+
+SNOW PHYSICS
+
+Approximately one metre of settled snow has accumulated where wind and obstacles allow, but the depth varies naturally. The walkable route is a narrow, irregular passage formed by municipal clearing and a few earlier footsteps—not a symmetrical excavated trench. Snowbanks have soft slumped edges, wind-sculpted ridges, compacted layers, occasional dirty ice near the walking surface, and fine crystalline detail. Portions of the railing bases are buried, creating a believable visual scale for the snowfall. The camera walks on compacted snow with slight compression and grounded contact. Only a few loose powder grains drift in a light breeze. The blizzard has ended. No heavy active snowfall, no weightless particles, no liquid-looking snow, no growing or breathing snowbanks, and no continuity changes in accumulation.
+
+LIGHTING AND IMAGE CHARACTER
+
+Nocturnal Dream visual language: quiet, observational, uncanny because the impossible weather is photographed with complete realism. Pre-dawn to early blue-hour ambience; desaturated steel blue, charcoal, soft neutral whites, and deep but readable shadows. Natural overcast skylight is the main source. A small number of existing city or promenade practicals create restrained, dim amber accents and physically plausible reflections. Fine mist sits low above the river. Natural exposure, subtle highlight roll-off, realistic atmospheric depth, gentle filmic texture, controlled contrast, and precise snow micro-detail.
+
+Do not use a dramatic orange sunset, glowing clouds, teal-and-orange blockbuster grading, neon fantasy light, luminous snow, excessive bloom, crushed blacks, synthetic HDR, game-cinematic lighting, painterly surfaces, or glossy CGI rendering.
+
+CONTINUITY AND REALISM
+
+The shot must feel like documentary footage captured in a physically impossible but completely believable Shanghai winter. Buildings, railing, lamps, snowbanks, river, horizon, and path remain structurally stable from beginning to end. No people, vehicles, text, logos, narration, plot event, or camera-facing subject. No cuts, transitions, morphing, duplicated towers, disappearing structures, invented Japanese-style architecture, European waterfront substitutions, warped railings, teleportation, or sudden lighting and weather changes.
+
+The final frame must be a naturally later position on the same forward walk, with newly revealed promenade geometry proving that the camera travelled through space.
+
+OPTIONAL AUDIO DIRECTION — ONLY IF AUDIO IS LEFT ON
+
+Natural location sound only: soft compressed footsteps in snow, faint winter wind, distant city ambience, subtle moving river water. No music, voice, dialogue, cinematic boom, or exaggerated effects.
