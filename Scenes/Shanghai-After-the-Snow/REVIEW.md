@@ -74,10 +74,20 @@ Midnight Witness uses a fixed tungsten practical behind camera-right, with cool 
 - **Sound review.** Listen separately for footfalls timed to the move, a convincing sense of distance and smooth gust dynamics.
 - **Downloaded take.** [Lateral render](Renders/06-Seedance-Snowstorm-Lateral.mp4), 480 × 854, 5.042 s video track, one audio stream. At 0.04, 1.25, 2.50 and 4.71 s, foreground posts pass left while the Pudong skyline stays nearly in the same screen position. The user found the movement read as sideways. The prompt directed a lateral track with the gaze held across the river and specified slight far-bank movement. Exact submitted settings and charge have not been verified. Audio content was not reviewed.
 
-## Next motion test — walking POV, boots to skyline
+## Prepared motion variant — walking POV, boots to skyline
 
 The walker moves forward along the snow-covered Bund. Begin with boots pressing into an existing trail, then lift and turn the head toward the river while the body continues forward. A glove and coat cuff on the frame edge establish whose view this is. The change in gaze lets the viewer discover scale in order, from a bootprint to a buried rail to the snow on Pudong. Keep Midnight Witness and the same active storm on both banks. The original Emotion and Social Currency hypotheses remain unmeasured.
 
 - **Prepared settings.** Seedance 2.5 Omni Reference, six seconds, 9:16, 480p, generated audio on. Assign the [v03 still](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) to **End Frame**. [Walking POV prompt](Prompts/Seedance-2.5-Snowstorm-v03-6s-Walking-POV.txt).
 - **Review question.** Does one continuous head movement carry the view naturally from grounded steps to Pudong? Check boot contact, the cuff and glove, rail continuity and skyline travel during the turn. Check for a dissolve into the end frame. Listen separately for footfall sync and distance.
+- **Status.** Draft kept in the scene history. The eight-second Midnight Witness version below adds burial cues and gives the far-bank view time to register.
+
+## Next motion test — Midnight Witness walking POV
+
+The snowfall is deep enough to hide the shape and footing of familiar Bund fixtures. Start at a boot pressing into a half-filled track. Read the snow height on the granite lantern plinth and remaining strip of wave-pattern steel. A gloved touch puts the drift within reach and shows its weight as it crumbles. Lift the gaze, cross the buried rail visually and find the same accumulation on Pudong's roofs, riverwalk and terraces.
+
+The near snow and stone hold texture in dark charcoal and silver-gray. A fixed tungsten practical grazes the near plinth and glove, while cool ambient light and layered snowfall separate the river from the skyline. Close footfall and fabric sounds drop away into wind, river and distant city. The change from small contact sounds to the open river gives the scene room to breathe. Emotion comes from recognizing the extent of the burial across both banks. Social Currency comes from a credible, distinctive view of Shanghai in the storm. Both remain hypotheses.
+
+- **Prepared settings.** Seedance 2.5 Omni Reference, eight seconds, 9:16, 480p, generated audio on. Assign [v03](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) to **End Frame**. [Midnight Witness walking POV prompt](Prompts/Seedance-2.5-Snowstorm-v03-8s-Walking-POV-Midnight-Witness.txt).
+- **Review question.** Do the boot, plinth, glove and far shore make the viewer feel the depth of the same storm across both banks? Check first, middle and last frames for readable burial cues, credible hand and boot contact, stable river geometry, a continuous head turn and a dark horizon. Review audio separately for contact sync and perspective.
 - **Status.** Prepared. Submission and cost pending.
