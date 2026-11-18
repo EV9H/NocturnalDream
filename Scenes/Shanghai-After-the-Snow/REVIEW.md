@@ -52,11 +52,23 @@ The same storm covers both banks. Keep the eye-level camera square to the Bund r
 - **Phone-size review.** At 390 pixels wide, several boot-tread impressions read in a continuous snowfield. The drift runs along the entire railing, with posts and a few steel bars still legible. Pale roof caps and a pale far-bank shoreline carry the storm across the water. The Oriental Pearl and the tower cluster remain recognizable. The amber light grazes the foreground from the requested right side.
 - **Review judgment.** The frame reads as a storm in progress. Some of the diagonal streaks look unusually uniform, and right-side falloff could be tighter for Midnight Witness. Ready to review as a still. No video submitted.
 
-## Next motion test — v03, locked off
+## Prepared motion variant — v03, locked off
 
 Does the snowfall feel wind-driven at phone size while the rail, footprints and skyline hold their shape? Hold the straight-on position so the test isolates weather motion. Look for uneven gusts, several layers of snow and gently broken river reflections. The footprints, snow depth on both banks and recognizable Pudong skyline carry the original Emotion and Social Currency hypotheses.
 
 - **Prepared settings.** Seedance 2.5, Omni Reference, 5 seconds, 9:16, 480p, generated audio off. Use the [exact 9:16 v03 still](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) as the first frame and the only input image. [Prepared prompt](Prompts/Seedance-2.5-Snowstorm-v03-5s-Locked-Off.txt).
 - **Picture review.** Check early, middle and last frames for rail or skyline warp, sliding bootprints, growing drifts, pulsing exposure and synchronized or looping snow streaks.
 - **Sound for a later pass.** Wind in irregular gusts over a low river bed and distant city ambience. Existing prints imply earlier pedestrians.
-- **Status.** Prepared for the next generation. Submission and cost pending.
+- **Status.** Draft kept in the scene history. The lateral walk below is the current prompt for the next generation.
+
+## Next motion test — v03, along the Bund
+
+An extraordinary storm has buried a waterfront people still use. The wave-pattern railing, worn route of bootprints, open Huangpu and recognizable Pudong towers anchor the place. The same wind drives loose snow on both banks, and accumulated snow stays on horizontal surfaces. At eye level, the viewer first reads the depth against a nearby post, then sees that the snow extends across the river as a gust thins over the far-bank roofs. Two slow steps along the promenade provide a short lateral move while the camera remains square to the railing.
+
+Midnight Witness uses a fixed tungsten practical behind camera-right, with cool ambient fill so the post, bootprints and snow texture hold in the shadows. At close range, two muffled footfalls establish the snow’s depth. Gusts sit over the low river wash and a distant city bed. Emotion comes from discovering how much of the familiar waterfront is buried. Social Currency comes from recognizing Shanghai through a rare, credible storm. Both remain unmeasured hypotheses.
+
+- **Reference review.** Creative Bible v1.1 supplies the scene-first structure and visual authority. The production instructions and workbook supply the test and review fields. The Bund photo anchors geography, and the snow texture photo supplies a material reference. Frame samples from take 01 show the bright horizon and prominent lanterns. Samples from take 02 show a stronger sense of passage with shallower-looking accumulation. V03 supplies the chosen shot composition, continuous snow cover and active storm.
+- **Prepared settings.** Seedance 2.5, Omni Reference, 5 seconds, 9:16, 480p, generated audio on. The [exact 9:16 v03 still](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) is the only input and sets the first frame. [Prepared lateral-walk prompt](Prompts/Seedance-2.5-Snowstorm-v03-5s-Lateral.txt).
+- **Picture review.** Can the close post pass smoothly while the rail and skyline hold their shapes and snow remains legible on both banks? Compare first, middle and last frames at phone size. Watch for false zoom, sliding footprints, changing snow depth and uniform snowfall streaks.
+- **Sound review.** Listen separately for footfalls timed to the move, a convincing sense of distance and smooth gust dynamics.
+- **Status.** Prepared. Submission and cost pending.
