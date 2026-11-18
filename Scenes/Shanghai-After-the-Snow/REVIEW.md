@@ -51,3 +51,12 @@ The same storm covers both banks. Keep the eye-level camera square to the Bund r
 - **Output.** [Original PNG](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm.png), 752 × 1344. [Exact 9:16 PNG](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png), a minimal center crop at 747 × 1328.
 - **Phone-size review.** At 390 pixels wide, several boot-tread impressions read in a continuous snowfield. The drift runs along the entire railing, with posts and a few steel bars still legible. Pale roof caps and a pale far-bank shoreline carry the storm across the water. The Oriental Pearl and the tower cluster remain recognizable. The amber light grazes the foreground from the requested right side.
 - **Review judgment.** The frame reads as a storm in progress. Some of the diagonal streaks look unusually uniform, and right-side falloff could be tighter for Midnight Witness. Ready to review as a still. No video submitted.
+
+## Next motion test — v03, locked off
+
+Does the snowfall feel wind-driven at phone size while the rail, footprints and skyline hold their shape? Hold the straight-on position so the test isolates weather motion. Look for uneven gusts, several layers of snow and gently broken river reflections. The footprints, snow depth on both banks and recognizable Pudong skyline carry the original Emotion and Social Currency hypotheses.
+
+- **Prepared settings.** Seedance 2.5, Omni Reference, 5 seconds, 9:16, 480p, generated audio off. Use the [exact 9:16 v03 still](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) as the first frame and the only input image. [Prepared prompt](Prompts/Seedance-2.5-Snowstorm-v03-5s-Locked-Off.txt).
+- **Picture review.** Check early, middle and last frames for rail or skyline warp, sliding bootprints, growing drifts, pulsing exposure and synchronized or looping snow streaks.
+- **Sound for a later pass.** Wind in irregular gusts over a low river bed and distant city ambience. Existing prints imply earlier pedestrians.
+- **Status.** Prepared for the next generation. Submission and cost pending.
