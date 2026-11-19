@@ -30,6 +30,7 @@ Work in order. Skip a stage only when the user's brief has already settled it. O
 | 6. Finish | Edit, sound, grade, export | [07 Sound and edit](references/07-sound-and-edit.md) |
 | 7. Judge | Score, repair or ship, log what was learned | [08 Production and QC](references/08-production-and-qc.md) |
 | Always | Douyin hook, pace, frame, sound and the 480p design rules | [09 Douyin and 480p](references/09-douyin-and-480p.md) |
+| Ancient-China steampunk or megastructure scenes | Real artifact, forked history, era anchor, scale craft, 480p-safe design | [11 Ancient-China megastructure](references/11-ancient-china-megastructure.md) |
 | Concept and release | Why a viewer stays, comments or shares; STEPPS; the pitch check and the post-release learning log | [10 Audience and popularity](references/10-audience-and-popularity.md) |
 
 A request that spans stages combines the chapters. A request for only an idea stops after stage 1 and gives the core image and treatment, not prompts.

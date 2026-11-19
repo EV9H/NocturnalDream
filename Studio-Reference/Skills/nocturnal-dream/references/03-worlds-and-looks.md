@@ -57,6 +57,8 @@ Each card gives the question it answers, the recipe, a prompt block to adapt, an
 - **Block:** `A bronze ring the size of a mountain turning slowly above a tiled-roof district, backlit steam and dust haze, one shaft of low sun cutting across the foreground roof, 28mm lens, people on the roof ridge for scale, rust and bronze palette, locked off.`
 - **Fails when:** scale cues are missing and everything is brown fog. Put a known-size object in the same plane as the subject.
 
+For ancient-China steampunk or hybrid worlds, read [11](11-ancient-china-megastructure.md) first.
+
 ### 5. Liminal Dream 梦核 / 阈限
 **Question:** What if a familiar place were still there, but time behaved as it does in memory?
 - **Light:** fluorescent or daylight at the wrong hour, flat and slightly sickly, with unusual shadow direction, no hero lighting.
