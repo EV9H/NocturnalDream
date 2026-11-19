@@ -66,7 +66,7 @@ Write it as a director would, in prose plus a few labeled lines:
 - **World rules and evidence.** Short list of what is visible that proves them.
 - **Look.** One named look from [03](03-worlds-and-looks.md) and why it fits the emotion.
 - **Sound.** Listener position, three layers, where silence falls.
-- **STEPPS.** Two or three viewer-facing levers only (Emotion, Social Currency, Triggers, Public, Practical Value, Stories). Everything is a hypothesis until audience data exists.
+- **Audience.** Run the waste-of-time test and the pitch check in [10](10-audience-and-popularity.md): who the viewer is, likely comments, who they send it to, one-sentence retell. Choose two or three STEPPS levers. Everything is a hypothesis until audience data exists.
 - **Hardest problem and the smallest test.** What will most likely fail and how a still or short take will check it.
 
 ## Lessons carried over from past scenes
