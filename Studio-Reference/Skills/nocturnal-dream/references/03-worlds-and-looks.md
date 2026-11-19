@@ -103,6 +103,17 @@ For ancient-China steampunk or hybrid worlds, read [11](11-ancient-china-megastr
 - **Block:** `A narrow alley washed in a single red from hanging lanterns, deep red shadows and bright orange highlights on wet cobblestone, a silhouetted figure at the far end, 35mm lens, symmetrical framing, slow forward drift, smoke at ground level.`
 - **Fails when:** colored lights compete everywhere. One dominant color, one clear shape.
 
+### Hybrid direction: Memory Megastructure 记忆巨构 (dreamcore × megastructure)
+**Question:** What if a place you remember were the size of a city, because memory does not stop at the edges?
+- **Mechanism:** An ordinary, deeply familiar structure (教学楼, 单位大院, 筒子楼, 澡堂, 城门) repeats, stacks or recurses beyond any use. Scale gives awe, familiarity gives homesickness, and the viewer feels both at once.
+- **Light:** Liminal Dream light (flat institutional daylight or fluorescent, wrong hour) for the near space. One distant, small warm light as a human cue.
+- **Scale:** Repetition in large bands (floors, bays, gates), vanishing in haze. Keep forms big and simple at 480p. Put a known-size object (a desk, a door, a school bag) in the same plane as the first unit.
+- **Sound:** Local memory sound (broadcast, bell, rope on a drying pole) with distance. The repetition should be audible as a long echo or a delayed second source.
+- **Study:** Piranesi's Carceri, Borges's Library of Babel, Bi Gan, Tarkovsky's Stalker, Kowloon Walled City and Chongqing's stacked streets, the Backrooms genre as a cautionary example of cliche, Tati's PlayTime for repetition staging.
+- **Block:** `A school corridor in flat 4pm daylight with green wall panels, terrazzo floor and chalkboards, seen from the doorway at eye height, 24mm. Through the window on the right, identical corridors stack upward into cloud, every floor lit by the same pale daylight, one small warm lamp lit on a far floor. A single schoolbag on the nearest desk for scale.`
+- **Fails when:** it is only "infinite hallway" (the Backrooms cliche). Needs a rule and a trace of presence, and a payoff beyond "it keeps going".
+- **Existing scene:** Class-6-2 is the horizontal version. Develop the vertical or recursive version as a different core relationship, not a repeat.
+
 ## Mixing rule
 
 Pick one look. A second look may lend one device (for example "Humid Nostalgia window glass in an Overcast Realism street"). Write it as one line in the treatment. Do not blend two entire looks, which produces the average of both.
