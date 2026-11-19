@@ -82,5 +82,6 @@ If one fails, fix the still or the prompt before generating.
 ## Slate checks
 
 - Every scene needs a **real cultural anchor** the audience recognizes without explanation. A scene with none (a generic industrial room, an anonymous interior) is not finished.
-- Rotate looks and mechanisms. The existing slate leans on weather and single-droplet mechanisms, both flagged as thin.
+- Rotate looks and mechanisms. Single-droplet and small-gimmick mechanisms are thin. Weather that a place can never have, at human scale, is allowed as the main alteration (see [02](02-concept.md)). Vary which condition each scene uses.
+- **Before choosing how to make a final, quote both routes.** Upgrading a draft keeps its exact content. A fresh high-resolution render gives new content and needs reselection. On School That Never Lets Out (2026-11-19), the draft-to-HD upgrade was quoted at 160 credits for both 720p and 1080p. A fresh 720p 10 s run was quoted at 70. Both quotes are unverified. Record both quotes and the reason for the chosen route.
 - Prefer concepts where the payoff can be one big physical event visible at 480p.

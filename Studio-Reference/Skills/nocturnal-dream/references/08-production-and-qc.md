@@ -17,6 +17,10 @@ How a scene moves from approved idea to released film, and how to judge each ste
 
 Approval of a concept does not approve spend. A request to "try it" does not approve spend.
 
+**Spending approval must be unambiguous.** Ask with the model, the number of outputs and the credit amount or cap in the question. A reply that names the amount, or says yes directly to that question, is approval. A bare "ok" sent while several things are open is not approval: confirm the amount first. On School That Never Lets Out still v02 (2026-11-19), a batch was submitted on a bare "ok", and the owner later asked whether it was already generating.
+
+**Verify what actually ran.** After each job, check the provider's job record and transaction history. Log the model, resolution, duration, references and their roles, the prompt as the provider echoed it, and the credits charged. Most takes logged before 2026-11-19 say "unverified", which is the gap this rule closes. If a value cannot be retrieved, write "unverified" with the reason.
+
 Before approving any video spend, run the **fidelity and hook checks** in [09](09-douyin-and-resolution-tiers.md). Add two score-card requirements for release: a hook in the first second, and a recognizable cultural anchor.
 
 ## Scene folder

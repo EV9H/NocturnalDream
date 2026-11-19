@@ -113,5 +113,8 @@ Tool-specific. Commonly documented patterns: music in parentheses, effects in an
 | F8 | Gibberish text or wrong landmark | Fix in the still or composite in post |
 | F9 | Unwanted subtitles or music | Add the documented audio and text constraint |
 | F10 | Ignores a beat | Reduce beat count; move that beat to a second test |
+| F11 | Repeated elements form a regular grid (lit windows, lamps, flakes) | Ask for irregular brightness, colour temperature and spacing; light only some floors (School That Never Lets Out v01–v02) |
+| F12 | A named object changes or moves between beats (the same lamp, a lantern) | Name it once with position and brightness, and state that it stays the same object in the same place throughout (School v03, Shanghai take 07) |
+| F13 | A camera move reads as the wrong direction (a lateral track feels sideways, not forward) | Prefer a walking POV with a head turn that reveals the view; keep a near fixture passing to prove the move (Shanghai take 06 vs take 07) |
 
 Ladder: fix the still, then simplify the motion, then strengthen references, then change the camera idea. After three failed rerolls of the same prompt, re-plan the shot. Do not keep rerolling.

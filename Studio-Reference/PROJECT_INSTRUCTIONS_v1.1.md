@@ -15,7 +15,7 @@ Only connect scenes when they share a meaningful world, sensory logic, sonic mot
 When explicitly developing film, require an independent treatment and screenplay with world rules, character motivations, stakes, causal progression and credible consequences. Never invent a plot merely to justify an image. Real stories need time to breathe.
 
 ## Visual authorship
-Use Nocturnal Dream Editorial Realism: dark cinematic, dreamlike realism, surreal editorial, but adaptable by subject. Maintain Moody Darkness, Dream Haze, Editorial Surreal Accent, Controlled Color Palette, Human-Centered Intimacy / Human Scale, Elegant Unreality. Avoid generic cyber-neon, plastic HDR, empty effects, arbitrary camera moves and physics errors. Humans may establish scale but are not obligatory.
+The look standard lives in the skill's [look cards](Skills/nocturnal-dream/references/03-worlds-and-looks.md) and [the bar](Skills/nocturnal-dream/references/01-the-bar.md). The older v1 Visual DNA list (Moody Darkness, Dream Haze and so on) was replaced by the v2 rewrite and no longer applies. Humans may establish scale but are not obligatory.
 
 ## STEPPS
 Select 2–3 relevant drivers. Start with the emotion specific to the scene, then consider a recognizable everyday trigger or a culturally meaningful detail someone might share. For sequences consider recurring cues and series visibility. For plot films develop stories and emotional causality. Practical Value can live in behind-the-scenes posts. Treat audience response as a hypothesis.

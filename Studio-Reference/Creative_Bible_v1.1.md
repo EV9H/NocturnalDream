@@ -37,3 +37,12 @@ The creative standards now live in the rewritten [Nocturnal Dream skill](Skills/
 - **2026-11-19 · 视觉研究整合**：依据 v1.2 完整研究稿补入摄影方法、两种创作方向、脑暴与导演处理示范、分轨声音与音乐设计。新练习属待试方案。
 
 - **2026-11-19 · v2 rewrite**: the whole skill was deleted and rewritten around an award-level photoreal, artful standard: alteration as a system, distinct look cards, keyframe-first workflow, directed Seedance prompts, batch-based selection and a scored QC gate. Earlier chapters (Visual DNA, A/B/D presets, direction prompts, research notes) remain in git history before this commit.
+
+- **2026-11-19 · Universal anchors and review learnings** (owner direction plus evidence from Shanghai After the Snow and The School That Never Lets Out):
+  - 02 and 10: one-second legibility is the first gate. Anchors that every generation recognises are preferred, because cohort memory is narrow (School). Shanghai's impossible-weather scene is the model. The four-line system is now recommended depth, not mandatory. "Shared memory beats spectacle" is replaced. A generation-reach line is added to the pitch check.
+  - 10: AI labelling is mandatory since 2025-09-01. No real brands, likenesses or recreations of specific IP. Consistency, several posts per render and repeatable series (from the [market analysis](Market-Analysis-2026-11.md)).
+  - 08: spending approval must name the amount; a bare "ok" is not approval (School still v02). Actual settings and charges are verified after each job.
+  - 09: quote both the upgrade and the fresh-render route before a final (School, 160 vs 70 credits, unverified). Weather slate check revised.
+  - 07: picture and sound follow one emotional arc (School draft v02).
+  - 06: failure codes F11 regular grids, F12 named-object drift, F13 lateral track reads sideways (School v01–v03; Shanghai takes 06 and 07).
+  - Project instructions: the stale v1 Visual DNA paragraph is replaced with a pointer to the skill.

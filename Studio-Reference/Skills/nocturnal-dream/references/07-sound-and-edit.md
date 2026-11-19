@@ -12,6 +12,8 @@ Decide the **listener position** first: where in the space is the ear. Then buil
 4. **Hero sound.** The one sound the viewer will remember: it should come from the alteration or the memory trigger.
 5. **Silence and drop.** Plan where sound falls away so the eye can take over.
 
+**One arc for picture and sound.** Picture and sound must tell the same emotional story. On School That Never Lets Out draft v02, the sound decayed like a burning memory while the picture stayed a clean, triumphant light event. The owner liked the sound but felt the whole lacked depth. If the sound fades, the picture must also visibly wear away, and the reverse.
+
 Perspective rule: near sounds dry and detailed, far sounds low and diffuse, with air in between. The alteration should be audible when it can.
 
 **Music.** Use it only when it adds something the place cannot. Prefer the place's own music (a broadcast, a radio, a bell). Original score cues should be sparse and tied to a physical event. No sentimental swell to tell the viewer how to feel.

@@ -5,5 +5,6 @@
 - [Project Instructions](Studio-Reference/PROJECT_INSTRUCTIONS_v1.1.md) define the scene-first production workflow.
 - [Scene First Workbook](Studio-Reference/Scene_First_Workbook_v1.1.xlsx) is the planning and tracking reference.
 - [Video production checklist and template](Studio-Reference/VIDEO_PRODUCTION_TEMPLATE.md) is the working checklist for each video. Copy it into the scene folder and feed review findings back into the shared template.
-- [Shanghai After the Snow](Scenes/Shanghai-After-the-Snow/REVIEW.md) is the studio's first product. Take 07 is the selected baseline and publication is on hold.
+- [Shanghai After the Snow](Scenes/Shanghai-After-the-Snow/REVIEW.md) is the studio's first product. Take 07 is the selected baseline. It is the owner's preferred model for the studio's direction (a famous real place in a condition it can never have). Publication is still to be decided. It is in season for December–January.
+- [Douyin market analysis, 2026-11](Studio-Reference/Market-Analysis-2026-11.md) ([中文版](Studio-Reference/Market-Analysis-2026-11-zh.md)) covers the market, comparable accounts, AI-label rules and a 90-day test plan. It predates the universal-anchor direction.
 - [Project rules](AGENTS.md) cover creative approval, spending approval, and production records.
