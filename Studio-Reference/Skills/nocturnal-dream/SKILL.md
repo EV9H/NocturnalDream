@@ -33,6 +33,8 @@ Work in order. Skip a stage only when the user's brief has already settled it. O
 | Ancient-China steampunk or megastructure scenes | Real artifact, forked history, era anchor, scale craft, 480p-safe design | [11 Ancient-China megastructure](references/11-ancient-china-megastructure.md) |
 | Concept and release | Why a viewer stays, comments or shares; STEPPS; the pitch check and the post-release learning log | [10 Audience and popularity](references/10-audience-and-popularity.md) |
 
+For image-set posts (图文: several stills with music), use the [image-set skill](../nocturnal-dream-image-sets/SKILL.md). It reuses chapters 02–05 and 10.
+
 A request that spans stages combines the chapters. A request for only an idea stops after stage 1 and gives the core image and treatment, not prompts.
 
 ## Working rules
