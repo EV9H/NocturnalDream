@@ -4,7 +4,7 @@
 
 Copy this checklist into the scene folder under `Scenes/` when starting a video. Record the template version in the copy. Use one shot plan and one take record per shot or variant. Link existing briefs, prompts, settings and reviews where they already answer a field. Use **Pass / Rework / Pending / N/A** for review checks and note why a check is pending or inapplicable.
 
-Use the [Nocturnal Dream skill](Skills/nocturnal-dream/SKILL.md) to find the relevant Creative Bible chapters, the [Project Instructions](PROJECT_INSTRUCTIONS_v1.1.md) for workflow, and the [Scene First Workbook](Scene_First_Workbook_v1.1.xlsx) for planning and tracking. This template is the working checklist for a specific video.
+Use the [Nocturnal Dream skill](Skills/nocturnal-dream/SKILL.md) to find the relevant chapters, the [Project Instructions](PROJECT_INSTRUCTIONS_v1.1.md) for workflow, and the [Scene First Workbook](Scene_First_Workbook_v1.1.xlsx) for planning and tracking. This template is the working checklist for a specific video.
 
 ## 1. Scene brief
 

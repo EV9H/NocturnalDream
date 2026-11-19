@@ -9,33 +9,16 @@ owner: AI Video Studio
 
 # NOCTURNAL DREAM
 
-**CREATIVE BIBLE / V1.1**  
-**Nocturnal Dream Editorial Realism · 夜梦式风格化写实**  
-**2026-11-17 · Scene-first Revision · 可长期维护的账号创作操作系统**
+**CREATIVE BIBLE / INDEX**
 
-> **先创造值得探索的世界，再决定是否需要故事。**  
+> **先创造值得探索的世界，再决定是否需要故事。**
 > Concept first. Build a world worth looking at. Earn the story.
 
-本页是 Creative Bible 的索引。工作室创作和制作从 [Nocturnal Dream 技能](Skills/nocturnal-dream/SKILL.md) 开始，按当前任务打开参考章节。以下分册保留 v1.1 的创作标准、实例和历史资料。
+The creative standards now live in the rewritten [Nocturnal Dream skill](Skills/nocturnal-dream/SKILL.md) (v2). This page keeps the origin statement and revision history.
 
-### 1.5 核心内容主题 / Altered Reality
+**Core formula.** Cultural Anchor × Altered Reality × Emotional Recognition. Ladder: Scene → Sequence → Narrative Film. Stage 1 is the current focus.
 
-[创作方向与场景立项](Skills/nocturnal-dream/references/creative-direction.md) 包含 Douyin 文化锚点、Altered Reality、STEPPS 和 Scene → Sequence → Narrative Film 的立项标准。
-
-### 5.3 剪辑与声音
-
-[竖屏节奏、剪辑与声音](Skills/nocturnal-dream/references/editing-and-sound.md) 包含首帧、视线、揭示、音乐和手机审片。
-
-## 其余分册
-
-- [概念脑暴](Skills/nocturnal-dream/references/concept-brainstorming.md)
-- [创作方向库与可复用提示词](Skills/nocturnal-dream/references/directions/INDEX.md)
-- [六种摄影方法、艺术案例与迁移练习](Skills/nocturnal-dream/references/photographic-territories.md)
-- [视觉设计与摄影](Skills/nocturnal-dream/references/visual-design.md)
-- [Prompt、连续性与资产命名](Skills/nocturnal-dream/references/prompts-and-continuity.md)
-- [审片、交付与发布](Skills/nocturnal-dream/references/review-and-release.md)
-- [阶段规划与观察指标](Skills/nocturnal-dream/references/roadmap-and-metrics.md)
-- [摄影研究与参考片目录](Skills/nocturnal-dream/references/reference-library.md)
+**Chapters.** [01 The bar](Skills/nocturnal-dream/references/01-the-bar.md) · [02 Concept](Skills/nocturnal-dream/references/02-concept.md) · [03 Worlds and looks](Skills/nocturnal-dream/references/03-worlds-and-looks.md) · [04 Cinematography](Skills/nocturnal-dream/references/04-cinematography.md) · [05 Keyframes](Skills/nocturnal-dream/references/05-keyframes.md) · [06 Video prompting](Skills/nocturnal-dream/references/06-video-prompting.md) · [07 Sound and edit](Skills/nocturnal-dream/references/07-sound-and-edit.md) · [08 Production and QC](Skills/nocturnal-dream/references/08-production-and-qc.md)
 
 ## Changelog
 
@@ -52,3 +35,5 @@ owner: AI Video Studio
 - **v1.1 创作方向库 · 2026-11-18**：将冷峻现实主义、反乌托邦、梦核、史诗巨构和温情生活奇想写成独立提示词。温情方向保留《出站就是家》和《握手楼松开了》作为参照。
 
 - **2026-11-19 · 视觉研究整合**：依据 v1.2 完整研究稿补入摄影方法、两种创作方向、脑暴与导演处理示范、分轨声音与音乐设计。新练习属待试方案。
+
+- **2026-11-19 · v2 rewrite**: the whole skill was deleted and rewritten around an award-level photoreal, artful standard: alteration as a system, distinct look cards, keyframe-first workflow, directed Seedance prompts, batch-based selection and a scored QC gate. Earlier chapters (Visual DNA, A/B/D presets, direction prompts, research notes) remain in git history before this commit.

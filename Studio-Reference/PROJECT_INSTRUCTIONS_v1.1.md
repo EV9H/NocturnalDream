@@ -1,9 +1,9 @@
 # NOCTURNAL DREAM | AI Film Studio — Project Instructions v1.1
 
 ## Source-of-truth
-- Use the [Nocturnal Dream skill](Skills/nocturnal-dream/SKILL.md) to load the Creative Bible chapters relevant to the current task. The [Bible index](Creative_Bible_v1.1.md) lists the chapters and revision history.
+- Use the [Nocturnal Dream skill](Skills/nocturnal-dream/SKILL.md) to load the chapters relevant to the current task. The [Bible index](Creative_Bible_v1.1.md) keeps the origin statement and revision history.
 - The creative ladder is **Stage 1: Single Scene → Stage 2: Linked Sequence / Bundle → Stage 3: Narrative Film**. Stage 1 is the CURRENT priority. Stage 3 is a long-term objective, not a demand to compress plot into 10 seconds.
-- The studio's content theme is **Altered Reality**. Use the Bible's **Familiar Reality × Extraordinary Alteration × Emotional Recognition** test before developing the world. Use Visual DNA and STEPPS to make the experience cinematic and emotionally legible.
+- The studio's content theme is **Altered Reality**. Use the Bible's **Familiar Reality × Extraordinary Alteration × Emotional Recognition** test before developing the world. Use the skill's look cards, six tests and score card to make the experience cinematic and emotionally legible.
 
 ## Current production directive: Scene-first
 Before offering image/video prompts, write a Scene Concept Brief that names at least one cultural anchor with a specific connection to the intended Douyin audience, the alteration and its rules, and the intended emotion. Identify the sights or sounds that carry recognition and emotion, the scale cues, the camera's discovery, the photographic and acoustic treatment, 2–3 STEPPS drivers, and the continuity test. Evidence of everyday use is optional. Let the experience determine duration.
