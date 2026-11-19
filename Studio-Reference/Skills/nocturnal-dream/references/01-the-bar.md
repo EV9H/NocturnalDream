@@ -23,7 +23,7 @@ Diagnosed from Shanghai After the Snow. Each is a rule below.
 3. Prompts told the model what to avoid more than what to build, so it produced the average of the category.
 4. Too many actions and details crammed into one short take, none given room.
 5. One generation per decision, so there was no selection pressure.
-6. 480p drafts were composed like high-resolution work (distant landmarks, fine snow, thin rails), so detail turned to mush. 480p is a fixed credit decision, so design for it ([09](09-douyin-and-480p.md)).
+6. 480p test clips were judged and composed as if they were finals (distant landmarks, fine snow, thin rails), so detail turned to mush and the idea was judged on a draft. Treat 480p as a test tier with a clear promotion gate to a high-resolution final ([09](09-douyin-and-resolution-tiers.md)).
 7. No hook in the first second and little visible change in 5–10 seconds. Payoffs were subtle or arrived late.
 8. Prompted details (boot color, glove, lamp) were lost in the first frame and nobody checked.
 9. Frames were tidy and symmetric, with no mess, wear or odd detail. One scene had no cultural anchor at all.

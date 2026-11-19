@@ -34,7 +34,7 @@ Design to earn each:
 
 | Signal | Design lever |
 | --- | --- |
-| Stay past 3 seconds | Hook frame ([09](09-douyin-and-480p.md)) |
+| Stay past 3 seconds | Hook frame ([09](09-douyin-and-resolution-tiers.md)) |
 | Finish | A payoff within 8–15 seconds, no dead lead-in |
 | Replay | A detail visible only on second viewing, or a loop |
 | Comment | A shared-memory question the viewer answers without being asked (their school, their city, their grandmother's street) |

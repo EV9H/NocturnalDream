@@ -1,6 +1,6 @@
 # 11 · Ancient-China steampunk megastructure
 
-An epic world direction: real ancient Chinese engineering, pushed down an alternate technology history until it holds up a city, a mountain or a river. Steampunk, cyberpunk or a hybrid are all allowed, but the culture must come first. Combine with the Megastructure Sublime look in [03](03-worlds-and-looks.md), the Douyin rules in [09](09-douyin-and-480p.md) and the audience chapter [10](10-audience-and-popularity.md).
+An epic world direction: real ancient Chinese engineering, pushed down an alternate technology history until it holds up a city, a mountain or a river. Steampunk, cyberpunk or a hybrid are all allowed, but the culture must come first. Combine with the Megastructure Sublime look in [03](03-worlds-and-looks.md), the Douyin rules in [09](09-douyin-and-resolution-tiers.md) and the audience chapter [10](10-audience-and-popularity.md).
 
 Facts below are from general knowledge and must be **checked against sources before a scene uses them**. Mark invented parts as alternate history.
 
@@ -56,13 +56,14 @@ Always state the **era anchor** (for example Han, Tang, Song or Ming) and keep c
 - **Inside the machine:** one tactile close shot (a bronze tooth meeting a wooden one, a rope under strain) sells that the machine is real.
 - **Time:** let it move slowly and with weight. Big things start late and stop slowly.
 
-## Designing for 480p
+## Tests at 480p, details at final
 
-Megastructures lose small detail first, so:
+Megastructures lose small detail first at 480p. For tests:
 - Use a few giant silhouettes (a ring, a tower, a bridge, a wheel) with fog layers between them.
 - Keep windows, ornament and rope detail large or leave them out.
 - Rely on steam plumes, bells and creaks to convey scale. Do not rely on sub-bass: phone speakers lose it. Use mid-frequency sounds (a bronze bell, timber groan, rope tension, drip, gong).
 - Put the payoff in one big motion, such as a ring turning, a gate opening or a wheel lifting water.
+- At the final tier this direction gains most: rope, bronze, tile, timber and the crowd all come alive at high resolution. Keep a detail list for the final pass.
 
 ## Sound
 

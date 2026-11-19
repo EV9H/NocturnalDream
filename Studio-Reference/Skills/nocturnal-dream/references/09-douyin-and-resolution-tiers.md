@@ -1,22 +1,42 @@
-# 09 · Douyin delivery and the 480p budget
+# 09 · Douyin delivery and the two-tier resolution plan
 
-Two fixed constraints shape every scene: the film is watched full-screen on a phone in Douyin, and video generation runs through Higgsfield MCP at **480p to save credits** (the owner's standing decision). Design for both. Do not ask to raise resolution unless the owner does.
+The film is watched full-screen on a phone in Douyin, and video generation runs through Higgsfield MCP on credits. So work in **two tiers**:
+
+- **Tier 1, test (480p).** Cheap drafts to choose a direction, check the idea, geometry, motion and hook. 480p is the default for every test and the owner's standing credit decision.
+- **Tier 2, final (720p or 1080p).** Once a direction is chosen and the test passes the promotion gate below, regenerate the selected shot at high resolution, with fresh spend approval stating model, outputs, resolution and cost.
 
 Evidence base: a review of Shanghai After the Snow (takes 01–07), One-Minute-to-Harvest, The-Upward-Leak and Class-6-2 stills, 2026-11-19. Observed there: soft 480p detail, no early hook, little happening in 5–10 seconds, prompted details missing from frame 1, evenly clean and symmetric frames, and one scene with no cultural anchor.
 
-## Designing for 480p
+## Tier 1: designing tests at 480p
 
-480×854 hides small detail and exaggerates mush. So:
+480×854 hides small detail and exaggerates mush, so make tests that remain readable:
 
-- **Big, simple forms.** Make the subject and the evidence of the alteration large in frame. Do not rely on small landmarks, thin railings, fine texture or text. If a detail matters, move closer or enlarge it.
-- **Strong value structure.** Separate near, middle and far by brightness and haze, not by fine detail. Check the thumbnail test in grayscale.
-- **Fewer, clearer elements.** Three to five things per frame. Repeated fine patterns (snow streaks, crowds, tiles) turn into noise.
-- **Close and medium framing** beats distant wide shots. A far skyline at 480p is a few pixels. Put the recognizable landmark large, or let sound and a near object carry the anchor.
-- **Grain on purpose.** Add fine grain in the grade. It hides softness and unifies the clip.
-- **Spend where it is cheap.** Stills cost far less than video. Put most of the credits into stills at the largest native size: many candidates, choose, retouch. Make few video takes, and make each count.
-- **Upscale in post, after selection.** Upscale only the selected take (a dedicated video upscaler or the editor's tool), then re-grain and check faces, edges and flicker. Treat results as unverified until reviewed at phone size. Record the tool and settings.
-- **Judge 480p drafts honestly.** Use them for motion, geometry, contact and timing. Judge beauty, texture and light on the still and on the upscaled final, not on the raw draft.
-- **Assemble from short takes.** If long single takes fail or cost too much, build a 15–25 second piece from several 4–6 second takes, cut on motion or a shared reference.
+- **Big, simple forms.** Make the subject and the evidence of the alteration large in frame. Do not rely on small landmarks, thin railings, fine texture or text in a test. If the idea only reads with fine detail, mark it for the final tier.
+- **Strong value structure.** Separate near, middle and far by brightness and haze. Check the thumbnail test in grayscale.
+- **Fewer, clearer elements** (three to five per frame).
+- **Spend where it is cheap.** Stills cost far less than video. Put most test credits into stills at the largest native size: many candidates, choose, retouch.
+- **What to judge at 480p:** idea, first-second hook, payoff visibility, composition, motion path, contact and timing. **Do not judge** texture, material realism, small-landmark accuracy or finish. Judge those on the still and on the final.
+
+## Promotion gate: 480p to final
+
+Promote a scene to Tier 2 only when all are true:
+
+1. The direction is chosen and the written treatment is approved.
+2. The still passes keyframe QC and the six tests ([01](01-the-bar.md)).
+3. The 480p take shows a first-second hook and a visible payoff.
+4. Prompted details appear in the first frame.
+5. Score is 12 or higher on the [08](08-production-and-qc.md) card, with a defined repair for any weak item.
+6. The owner has approved the final spend.
+
+## Tier 2: finals
+
+- Use the same hero still, the same prompt and the same references that passed the test. Change resolution only, so the result matches what was approved.
+- Request 720p or 1080p (check what the tool and your allowance offer) and record the quoted and charged cost.
+- Plan a **detail pass** that the test could not show: material texture, small landmarks and signage accuracy, fine atmosphere layers, skin and fabric. Check them on the still first.
+- Expect different behavior at higher resolution. Re-review first frame, motion and contacts on the final.
+- If credits only allow a few finals, spend them on the best take of the best scene. A final is a master, not a draft.
+- Upscaling a 480p take is a fallback only. Real high-resolution generation is better. If the fallback is used, re-grain and check edges and flicker at phone size.
+- Assemble longer pieces from several short finals.
 
 ## The Douyin viewer
 

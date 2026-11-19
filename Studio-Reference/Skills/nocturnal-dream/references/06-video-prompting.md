@@ -93,7 +93,7 @@ Tool-specific. Commonly documented patterns: music in parentheses, effects in an
 
 ## Settings policy
 
-- **480p is the owner's standing credit decision.** Do not ask to raise it unless the owner does. Design for it (see [09](09-douyin-and-480p.md)): large simple forms, few elements, strong value structure, grain, upscale after selection. Judge motion, contact and geometry from raw takes, and beauty from the still and the upscaled final.
+- **Two tiers.** Tests run at 480p to save credits. Finals run at 720p or 1080p once a direction is chosen and the test passes the promotion gate in [09](09-douyin-and-resolution-tiers.md). Judge motion, contact, geometry and hook from the 480p test. Judge texture, small landmarks and finish only on the still and the final. Reuse the same still, prompt and references for the final so only resolution changes.
 - Check the first frame of every take against the prompt (named objects, colors, light) before judging anything else. Past takes lost the boot color, glove and lamp spec.
 - Request 3–4 takes of a test inside one approved cap, vary only the variable under test, and review all.
 - Record the requested settings and what the tool echoed back. If they differ, say so.

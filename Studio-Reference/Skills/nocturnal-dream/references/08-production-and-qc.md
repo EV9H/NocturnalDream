@@ -11,12 +11,13 @@ How a scene moves from approved idea to released film, and how to judge each ste
 | Keyframe | Batch of candidates, selected and repaired hero frame | Keyframe QC passes (see [05](05-keyframes.md)) |
 | Motion test | Batch of 3–4 takes inside a cap | User approves spend (model, outputs, cost or cap) before submitting |
 | Select | One take chosen, notes on repair | Score ≥ ship threshold or a defined repair test |
-| Final | Final-resolution generation, edit, sound, grade | Another spend approval if it exceeds earlier scope |
+| Promotion | Direction chosen, test passes the gate in [09](09-douyin-and-resolution-tiers.md) | Owner approves final spend |
+| Final | High-resolution (720p or 1080p) generation of the selected shot, edit, sound, grade | Quote and charged cost recorded |
 | Release | Export, phone review, notes | Publication decision tracked separately |
 
 Approval of a concept does not approve spend. A request to "try it" does not approve spend.
 
-Before approving any video spend, run the **fidelity and hook checks** in [09](09-douyin-and-480p.md). Add two score-card requirements for release: a hook in the first second, and a recognizable cultural anchor.
+Before approving any video spend, run the **fidelity and hook checks** in [09](09-douyin-and-resolution-tiers.md). Add two score-card requirements for release: a hook in the first second, and a recognizable cultural anchor.
 
 ## Scene folder
 
