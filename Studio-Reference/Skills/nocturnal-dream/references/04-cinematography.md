@@ -86,6 +86,10 @@ Write what the surface does to light and what contact leaves.
 - If cutting, each shot must change emotion, add information or raise pressure. Cut shots that do none.
 - Long takes are earned by something happening in depth across time.
 
+## Messiness
+
+Clean, centered, evenly lit frames read as AI. Put at least one off-center, imperfect real detail in every frame: a scuffed edge, a repair, clutter, an asymmetric object, an uneven light pool, a trace of use. Not as noise: as something someone left behind.
+
 ## Optical realism
 
 Add the imperfections of a real camera, in moderation: slight vignetting, lens-edge softness, micro-contrast, highlight roll-off, shadow noise, subtle chromatic aberration on bright edges, true motion blur. Avoid heavy filters. A film stock or sensor feeling can be described by its effect (fine grain, soft halation on lamps, muted highlights) rather than by naming a camera.

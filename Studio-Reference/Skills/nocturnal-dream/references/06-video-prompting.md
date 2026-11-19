@@ -93,7 +93,8 @@ Tool-specific. Commonly documented patterns: music in parentheses, effects in an
 
 ## Settings policy
 
-- **Drafts at 480p** are for motion and geometry checks only. Do not judge texture or beauty from them. Run a final at 720p or 1080p only after selecting a take.
+- **480p is the owner's standing credit decision.** Do not ask to raise it unless the owner does. Design for it (see [09](09-douyin-and-480p.md)): large simple forms, few elements, strong value structure, grain, upscale after selection. Judge motion, contact and geometry from raw takes, and beauty from the still and the upscaled final.
+- Check the first frame of every take against the prompt (named objects, colors, light) before judging anything else. Past takes lost the boot color, glove and lamp spec.
 - Request 3–4 takes of a test inside one approved cap, vary only the variable under test, and review all.
 - Record the requested settings and what the tool echoed back. If they differ, say so.
 - Provider-managed seeds mean takes cannot be reproduced. Keep selected files.

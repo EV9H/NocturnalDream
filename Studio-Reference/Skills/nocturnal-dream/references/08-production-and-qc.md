@@ -16,6 +16,8 @@ How a scene moves from approved idea to released film, and how to judge each ste
 
 Approval of a concept does not approve spend. A request to "try it" does not approve spend.
 
+Before approving any video spend, run the **fidelity and hook checks** in [09](09-douyin-and-480p.md). Add two score-card requirements for release: a hook in the first second, and a recognizable cultural anchor.
+
 ## Scene folder
 
 ```

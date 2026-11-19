@@ -29,6 +29,7 @@ Work in order. Skip a stage only when the user's brief has already settled it. O
 | 5. Motion | Complete video prompt (shot cards), batch of takes | [06 Video prompting](references/06-video-prompting.md) |
 | 6. Finish | Edit, sound, grade, export | [07 Sound and edit](references/07-sound-and-edit.md) |
 | 7. Judge | Score, repair or ship, log what was learned | [08 Production and QC](references/08-production-and-qc.md) |
+| Always | Douyin hook, pace, frame, sound and the 480p design rules | [09 Douyin and 480p](references/09-douyin-and-480p.md) |
 
 A request that spans stages combines the chapters. A request for only an idea stops after stage 1 and gives the core image and treatment, not prompts.
 
