@@ -1,5 +1,13 @@
 # Shanghai After the Snow
 
+**Studio product 01 · Selected baseline: take 07 · Publication: on hold**
+
+This product informed the first [video production checklist](../../Studio-Reference/VIDEO_PRODUCTION_TEMPLATE.md).
+
+## Concept origin
+
+The original concept was a walking POV through a Shanghai residential compound after an extraordinary snowfall. In the development chat, the early tests were reported to read as an ordinary street, with shallow-looking snow and some architecture that felt Japanese. The user proposed moving to the Bund or Lujiazui so the viewer could immediately recognize the place. The brief settled on the Bund facing Lujiazui across the Huangpu. Take 07's near railing and far skyline give the same storm both human scale and a recognizable city. The creative principle established in that chat was **Familiar Reality × Extraordinary Alteration × Emotional Recognition**. [Original development chat](https://chatgpt.com/c/6afc48b6-32e0-83ec-b8e3-4f3d7480676e)
+
 ## Scene brief
 
 An unusually deep overnight snowfall changes how the Bund feels at human scale. The walk follows the west bank. The railing, open Huangpu River, and Lujiazui establish geography. Packed footprints, exposed stone, and partly buried posts show how the space is used and how deep the snow is. Begin close to a drift and reveal the width of the waterfront as it passes. Use Midnight Witness, with midnight blue, readable charcoal, and a narrow amber accent from a plausible practical. Design close snow steps against distant river and city sound.
@@ -102,3 +110,15 @@ The earlier draft sets the right scene but makes one short turn carry a snow tou
 - **STEPPS hypotheses.** Emotion comes from realizing the same depth of winter reaches beyond the buried fixture to a familiar far shore. Social Currency comes from recognizing the Oriental Pearl and being able to show someone a credible Shanghai under exceptional snow. Audience response is unmeasured.
 - **Recommended test.** Seedance 2.5 Omni Reference, eight seconds, 9:16, 480p, generated audio on. Attach [v03](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) as an **image reference**, with composition free to settle naturally at the end of the turn. [Revised prompt](Prompts/Seedance-2.5-Snowstorm-v03-8s-Walking-POV-Midnight-Witness-v02.txt).
 - **Review question.** At phone size with sound off, do the near rail and far roofs read as parts of the same storm in one continuous turn? Then review audio separately for footstep contact and distance. No generation submitted.
+
+## Take 07 — walking POV, picture review
+
+- **Source.** [Archived render](Renders/07-Snowstorm-Walking-POV.mp4), downloaded as `hf_20261118_062847_b1b0bfc1-c166-4d90-881e-deaf77eac82e.mp4`. The export is about eight seconds, 480 × 854 at 24 fps. Its action matches the [prepared walking POV v02 brief](Prompts/Seedance-2.5-Snowstorm-v03-8s-Walking-POV-Midnight-Witness-v02.txt). The exact submitted prompt, model, reference assignment, and charge are unverified.
+- **Observed in picture samples across the shot.** At 0–2.5 s, boot toes and old tread marks establish a forward POV. Some steps show little visible compression or fresh imprint. At about 3–5.5 s, the gaze lifts past a nearly buried wave-pattern rail and across the river. The lantern enters frame briefly and is brighter than the planned amber graze. The rail and towers hold readable shapes through the turn, with no obvious cut or dissolve in the sampled frames. From about 5.5 s onward, snow on the far-bank roofs echoes the buried rail, and the Oriental Pearl reads against the dark sky.
+- **Picture verdict.** Preferred walking take. The reveal earns its hold and feels more intentional than the lateral test. Try trimming roughly the first second in an edit to reach the rail sooner, while keeping one visible step and the full skyline hold. The buried rail and matching far shore carry the Emotion hypothesis. Recognizable Pudong in the storm carries Social Currency. Audience response remains unmeasured.
+
+### What to carry into the next production
+
+- **Repeat.** Give the walk a visible point of contact, use a near fixture to establish scale, and let the camera turn reveal what the same conditions have done across the space.
+- **Improve.** Check for weight and a lasting material response at foot contact. Watch the lantern during the turn and track the same rail features and landmark spacing as the view changes.
+- **Next test.** Compare take 07 with an opening trim of roughly one second. Keep the full skyline hold and check whether the cut still leaves one legible step.

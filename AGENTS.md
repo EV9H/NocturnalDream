@@ -1,7 +1,12 @@
 # Nocturnal Dream AI Studio
 
-Before starting studio creative or production work, consult the current local references in Studio-Reference/. Read Creative_Bible_v1.1.md as the primary creative authority and PROJECT_INSTRUCTIONS_v1.1.md for the production workflow. Consult Scene_First_Workbook_v1.1.xlsx when planning, logging, or reviewing scenes. Check the actual source files on each new studio task. Follow the user's current brief for shot-specific decisions.
+## Start here
 
-Keep the project background, scene-first approach, six Visual DNA tenets, and all six STEPPS lenses in mind. Select two or three STEPPS drivers per scene and connect each to something the viewer can experience. Treat audience response as a hypothesis until measured.
+- For studio creative or production work, load the [nocturnal-dream skill](Studio-Reference/Skills/nocturnal-dream/SKILL.md). Open its linked chapters for the current task. Use [START-HERE.md](START-HERE.md) to locate studio resources. Read the current source files and follow the user's brief for shot-specific decisions.
+- Every scene needs a perceptible cultural anchor that relates to its intended Douyin audience, an alteration, and an intended emotion. People and signs of everyday use are optional. Apply the scene-first workflow.
 
-Start at START-HERE.md. Keep each scene's brief, prompt versions, render settings, and reviews together under Scenes/. Preserve previous takes and distinguish observed findings from unverified settings and creative judgments.
+## Approval and production records
+
+- Get the user's approval of a new scene's written creative direction before generation. Separately obtain explicit spending approval for any generation that uses credits, tokens, or a limited allowance. Present the model, output count, and quoted cost or cap. Ask again only when the planned submission exceeds the approved scope or cap.
+- Consult the [Scene First Workbook](Studio-Reference/Scene_First_Workbook_v1.1.xlsx) for scene planning, logging, and review. Keep a filled [production checklist](Studio-Reference/VIDEO_PRODUCTION_TEMPLATE.md), brief, prompt versions, render settings, and reviews with the scene under `Scenes/`. Preserve previous takes and track publication separately.
+- In reviews, distinguish observations, unverified settings, and creative judgments. After each product, record what to repeat, what failed, and the next test. Use observed take evidence for shared checklist improvements and log each adopted change with its version and supporting scene.
