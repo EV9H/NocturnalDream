@@ -39,6 +39,10 @@ Run these on every concept, still and take. A fail means revise before spending 
 5. **Physics test.** Pause on contacts: foot in snow, hand on metal, water on stone, shadow under an object. Do weight, shadow, reflection and wear agree? Do small things keep their identity from first frame to last?
 6. **Friend test.** Would a viewer text this to a friend with one sentence? If the sentence is only "cool AI video", it fails.
 
+## The depth test
+
+After the six tests, ask: **what is being lost, and can we see or hear it going?** A clean reveal that ends on a trick can be a good clip but not a deep one. Depth usually needs a time or decay structure, one tone shared by picture and sound, and a trace of a person or of someone missing. If the answer to "what is being lost?" is nothing, rework the structure before spending on finals.
+
 ## Be bold: the idea checklist
 
 A strong idea usually has at least three of these.
