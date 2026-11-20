@@ -22,7 +22,7 @@ These rules come from the owner's reactions to test images. They are still propo
 - Each set needs at least one clear oddity, usually in the cover or the last image, so the post passes the one-second test.
 - Play the oddity completely straight: the same light, grain and framing as the rest of the frame, no emphasis, as if the camera didn't notice it. Two or more oddities, or a staged, emphasised one, turn the image into fantasy illustration.
 
-**Reference artists.** Name one in the prompt or the brief to steer the look.
+**Reference artists.** Use them to set the look in the brief. Put at most one in a prompt.
 - *One oddity, played straight:*
   - René Magritte (*The Empire of Light*: a night street under a day sky)
   - Gregory Crewdson (*Twilight*, *Beneath the Roses*: staged suburban dusk with one strange event)
@@ -48,20 +48,23 @@ Test it before writing any prompt:
 
 Pitch at least three ideas that differ in what the viewer experiences, not only in props. Recommend one and say why.
 
-## 3. The prompt: a photographer's spec sheet
+## 3. The prompt: a snapshot, not a spec sheet
 
-Write every prompt as these blocks, in this order. Fill each one. Leaving one out lets the model fall back to its generic look.
+Write about 200–250 words in five short parts. See [EXAMPLES.md](EXAMPLES.md) for covers that worked.
 
 1. **Format.** Vertical 3:4 photograph.
-2. **Look and era.** Camera body, lens and aperture, film stock or sensor, the year or decade, and how the film or file has aged (colour shift, fading, dust, scratches, noise, halation, grain).
-3. **Camera position.** Who is holding it and where: height (sitting, standing, waist, tripod), distance, direction, tilt, what is in focus and what is blurred, and any foreground element between camera and subject (doorframe, glass, reflection).
-4. **Scene.** The place, the time of day, the specific objects at near, middle and far, the oddity if this image has one (at most one), and any person (small, from behind or blurred, faces not the point).
-5. **Light.** Each source, its direction and colour, and what stays dark.
-6. **Mood.** One or two sentences of the feeling, written plainly.
-7. **Avoid.** Only the things the model keeps adding: readable text, logos, faces, horror cues, modern clean interiors, cinematic grading.
+2. **Camera and film.** One real camera, lens and film or sensor, the year, and how the print or file has aged. Prefer cameras an ordinary person owned: a 35mm SLR, a rangefinder, a compact, a disposable. Let the film carry the colour. Don't add palette lists or diffusion filters.
+3. **Where the camera is.** A person's own viewpoint (a doorway, a seat, a window, standing height), with the tilt, what is sharp, and what is soft in front. Use a tripod or a high view only when the place calls for it.
+4. **The scene, with its light inside it.**
+   - The place, the hour, and specific everyday objects near, middle and far.
+   - Write the light as a physical event from a source you can see.
+   - Zero or one oddity, stated plainly as a fact.
+   - People only as they would really be there: none, one or many. No plot.
+5. **Mood and avoid.** The feeling in one or two plain sentences. Then four to six things to avoid, only what the model keeps adding.
 
 Craft notes:
 - Name a real camera, lens and film every time. It is the strongest lever on the look.
+- Shorter beats longer. Long, over-specified prompts come out staged and rendered.
 - Plant flaws: wear, dust, uneven light, slightly crooked framing, imperfect focus.
 - One light logic per image. If something impossible is in the frame, it must light the scene, reflect, or cast shadows the way it would if real.
 - No text in the image. Captions go in the post.
