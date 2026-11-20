@@ -40,6 +40,8 @@ Use the [Nocturnal Dream skill](Skills/nocturnal-dream/SKILL.md) to find the rel
 | [Background landmark or structure] | [Silhouette, proportions, relative order, horizon] | [Expected screen travel with camera] | [Entry, reveal, final hold] |
 | [Character, prop or material state] | [Identity, wardrobe, grip or starting state] | [Action and its lasting effect] | [Contact, exit, re-entry or next shot] |
 
+- [ ] **Motion-ready first frame.** Before video spend, check that the payoff is visible or one short camera move away, that any end frame is reachable from the first frame by the described move, and that something keeps moving when the subject stops.
+
 ## 3. Generation and take record
 
 - [ ] Before consuming credits, tokens or limited generation allowance, show the model, output count and quoted cost or spending cap. Record explicit user approval against those settings before submitting.
@@ -81,3 +83,4 @@ In the scene review, capture **what to repeat / what failed / next controlled te
 | 1.3 | 2026-11-18 | Made a Douyin-relevant cultural anchor required and signs of everyday use optional, following the user's clarification. The Bund skyline in [Shanghai After the Snow](../Scenes/Shanghai-After-the-Snow/REVIEW.md#concept-origin) illustrates how a recognizable place can carry the anchor. |
 | 1.4 | 2026-11-18 | Added vertical opening, focal point, discovery and music checks. The foreground-to-skyline path and proposed opening trim in [Shanghai After the Snow, Take 07](../Scenes/Shanghai-After-the-Snow/REVIEW.md#take-07--walking-pov-picture-review) informed the picture checks. |
 | 1.5 | 2026-11-19 | Added shot-specific reference, layout and rough-edit checks. In [One Minute to Harvest, take 01](../Scenes/One-Minute-to-Harvest/PRODUCTION.md), the opening screen lacked a recognizable farm grid, the roof read as an ordinary planter by five seconds, and the late click had no visible hand at nine seconds. Multi-view and 3D preparation are optional responses to other camera demands. |
+| 1.6 | 2026-11-20 | Added the motion-ready first frame check. In [The Beacon Engines, Take 01](../Scenes/The-Beacon-Engines/REVIEW.md), an occluded payoff and an end frame far from the first camera position produced a hard cut at 4.9 s and a static stretch from 5 to 17 s. |

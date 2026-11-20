@@ -56,6 +56,8 @@ Use second ranges only if the model accepts them (documented for Seedance 2.5 wi
 - Light: `fixed tungsten lamp behind camera-right, world-fixed, brightness steady`.
 - Atmosphere layers: `close soft flakes out of focus, mid flakes sharp, low spindrift sliding across the promenade in uneven gusts`.
 - Materials in motion: `snow crust cracks around the boot and a small ridge of powder spills over the track edge`.
+- Staged change: a light, flame, machine or growth that should build reads better as named stages with time than as one verb. Instead of "the fire lights", write a spark, a small flame, the flame climbing, a second source catching, full height, over about three seconds. Single-verb changes tend to switch on. (Staged wording is an untested proposal.)
+- Chains of events: a sequence of the same event at increasing distance reads well when ordered nearest first, with uneven pauses, each with a visible consequence on its surroundings (proposal, one supporting take).
 - Protection against typical drift: `railing geometry and tower spacing remain stable`, `no change in exposure`, `no cuts`, `no on-screen text`.
 
 ## Examples (untested proposals)
@@ -116,5 +118,9 @@ Tool-specific. Commonly documented patterns: music in parentheses, effects in an
 | F11 | Repeated elements form a regular grid (lit windows, lamps, flakes) | Ask for irregular brightness, colour temperature and spacing; light only some floors (School That Never Lets Out v01–v02) |
 | F12 | A named object changes or moves between beats (the same lamp, a lantern) | Name it once with position and brightness, and state that it stays the same object in the same place throughout (School v03, Shanghai take 07) |
 | F13 | A camera move reads as the wrong direction (a lateral track feels sideways, not forward) | Prefer a walking POV with a head turn that reveals the view; keep a near fixture passing to prove the move (Shanghai take 06 vs take 07) |
+| F14 | Feet or legs kick up into a level, forward-looking POV | Only show feet when the camera already looks down (as in Shanghai take 08). With a level gaze, show walking through head bob, the near railing or footprints growing and passing, and footstep sound, never a boot (Shanghai take 09) |
+| F15 | A "gust" or "driving snow" becomes a whiteout that hides the anchor | Leave the gust out, or ask for a light gust with the landmark staying readable. Never let weather hide the anchor in the first 3 seconds (Shanghai take 09) |
+| F16 | A hard cut joins the first frame to the end frame | The two frames are too far apart for the described move in the time given. Bring the end frame close to the first camera position, or drop it and use first-frame only; see Motion-ready first frame in [05](05-keyframes.md) |
+| F17 | The take goes static between events | Give the long take one event about every eight to ten seconds, or something that moves on its own; otherwise shorten the clip and trim in the edit |
 
 Ladder: fix the still, then simplify the motion, then strengthen references, then change the camera idea. After three failed rerolls of the same prompt, re-plan the shot. Do not keep rerolling.

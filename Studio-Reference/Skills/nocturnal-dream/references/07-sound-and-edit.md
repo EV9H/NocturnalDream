@@ -31,6 +31,7 @@ Generated audio is a draft: the model's audio is often mono and can clip at the 
 - **Cut for a reason.** On motion, on sound, or on a changed idea. Do not cut for variety.
 - **Rhythm.** Long shot, then shorter, then a pause, then the payoff. The pause before the payoff matters most.
 - **Loopability.** On Douyin, a clean loop can lift replays: consider an ending that rhymes with the opening frame. Treat this as a test, not a rule.
+- **Rescue an unwanted cut.** If a take cuts on its own, judge whether the cut can read as a deliberate reveal, then trim the dead time on both sides of it. Treat this as an edit option before rerolling.
 - **Speed.** Real time by default. Ramp once, deliberately.
 - **Captions.** None unless the idea needs a place or date, and then in a short, clean title.
 
@@ -43,5 +44,6 @@ Generated audio is a draft: the model's audio is often mono and can clip at the 
 
 ## Export
 
+- Measure loudness and peaks per channel with a real meter (for example ffmpeg `astats` or `ebur128`), not a mono sum, before deciding a take clips.
 - 1080×1920, 9:16, H.264, AAC audio, 24 or 30 fps matching source. Verify against the platform's current spec.
 - Review on a phone with sound off, then on with sound. Record what was readable at each step and what was lost.

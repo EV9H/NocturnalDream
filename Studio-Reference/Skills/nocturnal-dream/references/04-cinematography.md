@@ -93,3 +93,5 @@ Clean, centered, evenly lit frames read as AI. Put at least one off-center, impe
 ## Optical realism
 
 Add the imperfections of a real camera, in moderation: slight vignetting, lens-edge softness, micro-contrast, highlight roll-off, shadow noise, subtle chromatic aberration on bright edges, true motion blur. Avoid heavy filters. A film stock or sensor feeling can be described by its effect (fine grain, soft halation on lamps, muted highlights) rather than by naming a camera.
+
+Models default to an HDR, tone-mapped look: everything exposed, glowing edges, no falloff from near to far. Counter it with a narrow natural dynamic range: say what is dim and what is slightly overexposed, let light and contrast change between near and far planes, and describe the capture as a raw, unedited scan or file. A soft, even source (overcast, shade) is the easiest place to start.

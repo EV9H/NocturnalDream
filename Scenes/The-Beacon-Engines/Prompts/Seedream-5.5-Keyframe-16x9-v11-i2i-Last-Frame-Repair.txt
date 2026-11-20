@@ -1,0 +1,11 @@
+Edit the first reference image. Keep its composition, the porter's pose, the spur wall, the beacon engine and its yard, the two burning fire bowls, the three dark bowls, the far engines and the sea of cloud exactly where they are. Use the second reference image only for two things: the porter's clothing, and the brightness and colour of the overcast morning light.
+
+Make only these changes:
+
+1. Ambient light. The scene is the same early morning as the second reference, a few seconds later, not dusk. Raise the overall daylight to match it: the grey cloud deck, the mountains, the bricks and the porter are as bright and blue-grey as in the second reference. The fire is still the only warm colour.
+
+2. The glow on the cloud deck. Replace the smooth oval halo above the engine with light that follows the clouds: an uneven orange tint on the underside of the deck, strongest directly above the flames, broken by the darker folds and lumps of the cloud, fading irregularly into grey, with no oval shape and no rings or banding. The same for the smaller glows above the far engines.
+
+3. The porter. Give him the same dark cloth head wrap and the same patched, rain-darkened padded jacket as in the second reference.
+
+Same film look: soft, low contrast, fine grain. No text.

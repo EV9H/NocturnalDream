@@ -1,0 +1,9 @@
+Keep the reference photograph's composition, objects, flaws and layout exactly. Change only how it was photographed.
+
+Raw, unedited scan of a frame shot on Kodak Portra 400 colour negative film with a 35mm film camera and a 40mm lens, handheld by a person standing on the Wall at dawn, seen the way the human eye sees it in low light. Natural, narrow dynamic range, as a single real exposure.
+
+Exposure. The bright band of sky at the horizon is slightly overexposed and its glow spills softly over the nearby clouds and the edge of the watchtower. The foreground walkway and parapet fall into deep, nearly black shadow, with only the step edges and the frost on the parapet readable. The clouds are soft, low-contrast masses with blurred edges and no bright rims. Colour is muted: the sunrise glow is a dull peach, and everything else is grey-blue with little saturation.
+
+Lens. Focus is on the porter. The nearest parapet bricks and the far ridges are slightly soft. The corners are soft and darker, there is faint colour fringing on bright edges, and a mild veil of flare comes from the bright horizon. Fine, visible film grain throughout, a little stronger in the shadows. The frame is tilted a degree off level.
+
+Avoid: HDR, tone mapping, local contrast enhancement, halos around edges, over-sharpening, AI glow, saturated sunset colours, text.

@@ -47,3 +47,9 @@ The creative standards now live in the rewritten [Nocturnal Dream skill](Skills/
   - 06: failure codes F11 regular grids, F12 named-object drift, F13 lateral track reads sideways (School v01–v03; Shanghai takes 06 and 07).
   - Project instructions: the stale v1 Visual DNA paragraph is replaced with a pointer to the skill.
 - **2026-11-19 · Image-set product line:** new [image-set skill](Skills/nocturnal-dream-image-sets/SKILL.md) for 图文 posts (6–9 stills with in-app music) on Douyin and 小红书. Owner proposal. It adds set structures, cover and sequence checks, music sourcing and image-set metrics. All rules are proposals until 4 sets are measured.
+- **2026-11-20 · First frames for video and decision order** (evidence: The Beacon Engines stills v01–v11, Take 01 and Edits C and C2):
+  - 05: decide function and logic, then story, then light and weather, then planted flaws, then lens, before the first still. New "Motion-ready first frame" section: reveal within reach, first and last frames reachable, something moves on its own, the payoff large enough to read in motion. Two QC lines added.
+  - 06: staged-change phrasing for things that build. The chain-of-events recipe is a proposal. Failure codes F16 (a hard cut between the first and end frames) and F17 (static between events).
+  - 04: how to counter the default HDR look.
+  - 07: rescue an unwanted cut in the edit; measure peaks per channel.
+  - Production template v1.6: motion-ready first frame check.
