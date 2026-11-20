@@ -122,3 +122,72 @@ The earlier draft sets the right scene but makes one short turn carry a snow tou
 - **Repeat.** Give the walk a visible point of contact, use a near fixture to establish scale, and let the camera turn reveal what the same conditions have done across the space.
 - **Improve.** Check for weight and a lasting material response at foot contact. Watch the lantern during the turn and track the same rail features and landmark spacing as the view changes.
 - **Next test.** Compare take 07 with an opening trim of roughly one second. Keep the full skyline hold and check whether the cut still leaves one legible step.
+
+## Prepared final — Jimeng Seedance 2.5, 720p (2026-11-19)
+
+The owner asked for a 720p final on Jimeng, to be posted ("treat it as a final product"). It also serves as the first matched comparison with Higgsfield take 07.
+
+- **Inputs.** The same [v03 opening still](Renders/05-Higgsfield-Opening-Still-v03-Snowstorm-9x16.png) and the same walking-POV prompt as take 07. The only change is the reference token for Jimeng: [Jimeng prompt v01](Prompts/Jimeng-Seedance-2.5-720p-8s-Walking-POV-Final-v01.txt). The still is 747 × 1328, slightly above 720p, so the still may limit fine detail.
+- **Jimeng setup.** Canvas [Shanghai After the Snow](https://jimeng.jianying.com/ai-tool/ai-canvas/021b2502-8305-4052-9595-e6795edfbc43) (project `021b2502-8305-4052-9595-e6795edfbc43`). The still is uploaded as resource `a913e745-b5c1-4e6b-b75f-8c2a41e81de6`.
+- **Planned request.** Seedance 2.5 (`seedance_2.5`), multimodal reference mode (`m2v`), 9:16, 720p, 8 s, three takes in three separate nodes, generated audio as the model provides.
+- **Status.** The owner chose one take. Only that node was saved and run.
+
+## Take 08 — Jimeng Seedance 2.5, 720p final candidate (2026-11-19)
+
+- **Submitted (verified from the CLI responses).** Node `node_96s6cfb9r5`, submit `acbcf204-2989-41bb-ad77-0f7a0bcc1162`. Model `seedance_2.5`, mode `m2v`, 9:16, 720p, 8 s, one output, with the v03 still as an image reference. The prompt is as stored, and Jimeng echoed it back unchanged. Quote: **0 credits**, so it was run with a credit ceiling of 0. The balance was 12,420 before and 12,420 after, so the zero charge is confirmed.
+- **File.** [Take 08](Renders/08-Jimeng-Seedance-720p-Walking-POV-Final.mp4), resource `22931015-dd7e-4674-97f1-affcf0df6792`. 720 × 1280, 24 fps, 8.06 s, with an audio track. 16.9 MB. SHA-256 `e58017ff…d89f7`.
+
+### Observed (frames at 0, 0.97, 2.02, 3.23, 4.43, 5.64, 6.85 and 7.98 s)
+- A burned-in **"AI生成" label in the top left** of every frame. This is Jimeng's explicit AI label. Keep it: the CAC labelling rules prohibit removing it.
+- 0–2 s: downward POV. Dark boot toes and a coat hem, deep snow with older bootprints, and a warm lamp glow at the top of the frame. The new step's compression is soft but readable.
+- 2–3.2 s: the wave-pattern rail appears buried to near the top under a thick, rounded drift. This is the clearest depth cue of any take so far.
+- 3.2–4.4 s: the turn toward the river. The skyline enters and is briefly arranged differently mid-turn (the Pearl is out of frame at 4.43 s).
+- 4.4–8 s: a steady hold on the river. The Oriental Pearl at left, the convention-centre globes, and Jin Mao, the World Financial Center and the Shanghai Tower to the right. Snow caps on the far-bank low roofs, broken reflections on open dark water, and a foreground drift along the bottom. Flakes in layers. Exposure is stable.
+- The opening frame does not reproduce the v03 still. This mode treats the still as a reference, not a first frame.
+- **Audio not listened to.**
+
+### Judgment (creative opinion)
+- The strongest take so far. It is sharper than take 07 at 720p, the scale reads clearly from the buried rail, and the hold delivers the "this is Shanghai, and it cannot be real" reveal. Ready to post, subject to two checks.
+- **Check 1: landmark order.** The left-to-right order of Jin Mao, the World Financial Center and the Shanghai Tower has not been verified against a real photo from this stretch of the Bund. This is the most likely fact a Shanghai viewer would notice.
+- **Check 2: sound.** Listen for boot crunch timing, wind and any music or speech the model added.
+- **Edit suggestion.** Consider trimming 0.5–1 s from the opening, as was suggested for take 07, so the buried rail arrives sooner.
+
+### Comparison with take 07 (Higgsfield, 480p)
+Same still and prompt. Take 08 is higher resolution, shows a more legible burial depth and keeps a cleaner skyline hold. It cost 0 credits under the Jimeng membership, against 24 Higgsfield credits for take 07 (the reported 480p rate; the actual charge was never verified). One take each, so this is not a measure of the usable-take rate.
+
+- **Comparison to record.** Credits actually charged per take, usable takes out of three, realism of the snow contact and buried rail, skyline geometry through the turn, lantern behaviour, audio, watermark and export resolution, set against take 07 (Higgsfield, 480p).
+
+## Take 09 — Jimeng Seedance 2.5, 720p, v03 as first frame, prompt rewritten with the current skill (2026-11-19)
+
+- **Why rewritten.** The owner asked for the prompt to be rewritten with the current skill, not the Codex-era prompt. Changes from the old prompt:
+  - v03 is the **first frame** (`first_last_frame` mode), so the one-second hook (skyline plus buried railing) is in frame at 0 s. Take 08 used v03 only as a reference and opened on boots.
+  - The prompt describes change only, with three timed beats, a list of things that must stay fixed, and a separate sound paragraph with no music.
+  - 298 words, against about 420 before.
+  - Lessons applied: F11 uneven lit windows, F12 a fixed lamp, F13 a walking POV instead of a lateral track.
+  - The Jimeng "AI生成" visible label was switched off by the owner before this run. Post with Douyin's AI declaration on.
+  - [Prompt v02](Prompts/Jimeng-Seedance-2.5-720p-8s-First-Frame-Walk-v02.txt).
+- **Geography check.** v03's tower order from left to right is the Pearl, Jin Mao, the World Financial Center, then the Shanghai Tower. It matches compass bearings from the central Bund, worked out from approximate coordinates recalled from memory. The [geography reference photo](References/01-Bund-Geography.jpeg) is taken from further north, so it shows a different order and was not used as a reference. Not checked against a photo from the same vantage.
+- **Submitted (verified from the CLI).** Node `node_z6t4yv60wc`, submit `d92413a9-324f-4b1e-ace5-f295ff9ade2b`. Model `seedance_2.5`, mode `first_last_frame`, 9:16, 720p, 8 s, one output. Quote 0, run with a credit ceiling of 0. Balance 12,420 before and after. This was the second of the four free runs.
+- **File.** [Take 09](Renders/09-Jimeng-Seedance-720p-First-Frame-Walk.mp4), resource `494679c3-3c6c-470d-a99e-f6f87b2298c0`. 720 × 1280, about 24 fps, 8.06 s, with an audio track. SHA-256 `d50fb756…aceb6a`.
+
+### Observed (frames at 0, 0.97, 2.02, 3.23, 4.43, 5.64, 6.85 and 7.98 s)
+- No "AI生成" label in the frame.
+- 0 s: the v03 frame exactly. The skyline, the buried railing and the footprints read at once.
+- About 1–3 s: the gust becomes a near whiteout. The skyline disappears behind a bright, warm-tinted veil, and the lamp light blooms orange across the haze.
+- 2–4.4 s: the walk. A boot enters the lower frame. At 3.23 s the boot is raised toward the lens at an awkward angle, more like a kick than a step. At 4.43 s it plunges into deep powder. The skyline is still faint.
+- 5.6–8 s: the walker stops behind the railing. The drift on the rail top fills the lower third, the skyline returns sharp with snow caps on the low roofs, and the shot holds. The tower order matches the first frame.
+- Audio not listened to.
+
+### Judgment (creative opinion)
+- **Better hook than take 08.** The first frame passes the one-second test, and there is no label, so it is suitable for posting.
+- **Weaker middle.** The gust I wrote is too strong. It hides the skyline from about 1 to 4 s, exactly when a viewer decides whether to stay, and the warm bloom muddies the Midnight Witness palette. The raised-boot pose at about 3 s looks unnatural.
+- **Strongest ending of all takes.** 5.6–8 s.
+- **Edit option.** Cut from the first frame (0–0.8 s) straight to about 5 s. That keeps the hook and the ending and drops the whiteout and the boot. The result is about 4 s, and it would loop well.
+- **Lesson for chapter 06 (proposal, one take).** Seedance turns "a gust drives the snow" into a full whiteout. Ask for a light gust with the skyline staying readable, or leave the gust out.
+
+### Owner review and closer look (2026-11-19)
+- **Owner verdict:** "insanely bad", because of the kick-walking.
+- **Observed in dense frames, 1.6–5 s:** the legs swing up into the frame from the bottom edge, toes pointing up toward the lens, again and again (2.1, 3.06, 4.0, 4.5 and 5.0 s). It looks like someone sitting and kicking, not walking. With the camera level at the horizon, a walker's own feet should not be visible at all.
+- **Cause (my judgment).** My prompt asked for "a dark boot enters the lower edge" while keeping the first frame's level, eye-height view across the river. The model could only satisfy both by lifting the leg into a level frame. Take 08 avoided this because the camera looked down at the snow first. The whiteout came from "a gust drives the falling snow".
+- **Verdict:** failed take. Not for posting, except the possible 0–0.8 s plus 5.6–8 s cut.
+
