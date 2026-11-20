@@ -1,0 +1,7 @@
+# Video and audio renders stay local only; they are not pushed.
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.wav
+*.mp3

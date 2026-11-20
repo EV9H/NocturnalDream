@@ -30,7 +30,7 @@ Scenes/<Scene-Name>/
   PRODUCTION.md     brief, treatment, look, decisions, status
   References/       files with their roles in the filename or notes
   Prompts/          each prompt as submitted, versioned (v01, v02...)
-  Renders/          every take, including failures, numbered
+  Renders/          every take, including failures, numbered (video and audio files are gitignored and stay local; record the SHA-256 in REVIEW.md)
   REVIEW.md         dated reviews, scores, next test
 ```
 
