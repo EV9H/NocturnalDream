@@ -17,11 +17,28 @@ These rules come from the owner's reactions to test images. They are still propo
 
 **Subject: something striking.** Either the image itself is unusual (an impossible thing inside an ordinary space) or the photography is strong enough to carry an ordinary scene. Bland, correct pictures fail.
 
+**Oddity: zero or one per image, never more.**
+- An image may have one impossible or slipped detail, or none at all. Then the feeling comes from light, time and emptiness alone.
+- Each set needs at least one clear oddity, usually in the cover or the last image, so the post passes the one-second test.
+- Play the oddity completely straight: the same light, grain and framing as the rest of the frame, no emphasis, as if the camera didn't notice it. Two or more oddities, or a staged, emphasised one, turn the image into fantasy illustration.
+
+**Reference artists.** Name one in the prompt or the brief to steer the look.
+- *One oddity, played straight:*
+  - René Magritte (*The Empire of Light*: a night street under a day sky)
+  - Gregory Crewdson (*Twilight*, *Beneath the Roses*: staged suburban dusk with one strange event)
+  - Jeff Wall (staged photographs that read as documents)
+  - Kane Pixels (*The Backrooms*: found-footage realism in ordinary spaces)
+- *No oddity, liminal through light and time:*
+  - Todd Hido (*House Hunting*: houses at night through fog or a windshield)
+  - Hiroshi Sugimoto (*Theaters*: a whole film in one exposure)
+  - Edward Hopper (rooms where time has stopped)
+  - Thomas Demand (rooms rebuilt in paper, almost right)
+
 **Not by default:** national landmarks, traditional culture, older people as the subject, tourist viewpoints, scenic landscapes. Any of these can be one direction, but never the default. Places can be anywhere in the world.
 
 ## 2. The idea
 
-Pitch an idea in one sentence: **a space everyone has stood in + one impossible or slipped detail + one feeling.**
+Pitch an idea in one sentence: **a space everyone has stood in + the set's oddity + one feeling.** Say which images carry the oddity and which carry mood alone.
 
 Test it before writing any prompt:
 - **One-second test.** Does a thumbnail of the cover read as both "I know this kind of place" and "this is not right"?
@@ -38,7 +55,7 @@ Write every prompt as these blocks, in this order. Fill each one. Leaving one ou
 1. **Format.** Vertical 3:4 photograph.
 2. **Look and era.** Camera body, lens and aperture, film stock or sensor, the year or decade, and how the film or file has aged (colour shift, fading, dust, scratches, noise, halation, grain).
 3. **Camera position.** Who is holding it and where: height (sitting, standing, waist, tripod), distance, direction, tilt, what is in focus and what is blurred, and any foreground element between camera and subject (doorframe, glass, reflection).
-4. **Scene.** The place, the time of day, the specific objects at near, middle and far, the one impossible or slipped detail, and any person (small, from behind or blurred, faces not the point).
+4. **Scene.** The place, the time of day, the specific objects at near, middle and far, the oddity if this image has one (at most one), and any person (small, from behind or blurred, faces not the point).
 5. **Light.** Each source, its direction and colour, and what stays dark.
 6. **Mood.** One or two sentences of the feeling, written plainly.
 7. **Avoid.** Only the things the model keeps adding: readable text, logos, faces, horror cues, modern clean interiors, cinematic grading.
