@@ -245,3 +245,215 @@ The owner asked why the later covers fall short of T05–T08 and T10, and whethe
 - §1 now says at most one reference artist per prompt.
 - New file: `Studio-Reference/Skills/nocturnal-dream-image-sets/EXAMPLES.md`, holding the T05, T06, T07, T08 and T10 cover prompts.
 - Evidence: the comparison above, T05–T08 and T10 against T09–T18.
+
+## Owner's vibe board: four target looks (2026-11-25)
+
+The owner shared eight Douyin screenshots as the quality bar: 氛围柔光 (A), shiny 国风 texture, light and colour (B), mega core (C) and film texture (D). The analysis, measurements, a draft look block per lane and the open questions are in `VIBE-BOARD-2026-11-25.md`. The screenshots and a contact sheet are in `References/vibe-board-2026-11-25/`. No generation yet.
+
+**Skill change (2026-11-25), from the vibe board.** The owner asked for these looks to become directions in the image-set skill.
+- **New chapter:** `Studio-Reference/Skills/nocturnal-dream-image-sets/LOOKS.md` holds four lanes (A 氛围柔光, B 国风 shine, C mega core, D cinema film texture). Each lane has:
+  - a paste-ready look block;
+  - a "there when" checklist;
+  - target numbers;
+  - a ladder of one-lever fixes;
+  - known failure modes;
+  - a "best so far" slot.
+- **New script:** `scripts/measure_look.py` measures a render against a lane's ranges. It was calibrated on the eight references, all of which read on target. Run on T150–T250 renders, about 10% clip their whites (99th percentile at 245 or more), against none of the references.
+- **SKILL.md changes:**
+  - New sets start from a lane, and a lane's look block overrides the default camera, film and filter rules.
+  - Lanes B and D may test 2.39:1; 3:4 stays the default until the owner decides.
+  - The review step now runs the measurement.
+  - Sets cut between wide and close.
+- **EXAMPLES.md** now has a slot for lane winners.
+- **Supporting evidence:** the owner's eight references only. No take has hit a lane yet, so the ranges should be re-centred on our first confirmed hit.
+
+## LA01–LD01: round 1 of the target-look lanes, one cover per lane (2026-11-25)
+
+- **Brief (owner):** "lets try one for each, and whatever ratio that the popular douyin posts use." Each lane took the frame shape of its reference post: A 9:16 (full-screen), B 21:9, C 3:4 (图文), D 21:9.
+- **Prompts:** each opens with its lane's look block from `LOOKS.md`, copied unchanged.
+  - **LA01:** a concrete bus shelter on an empty coastal road, under a cumulus tower.
+  - **LB01:** a woman in white silk asleep on a giant backlit lotus leaf on a misty pond. The curled leaf shades her face, as the resting rule requires.
+  - **LC01:** looking up an impossibly tall 福建土楼, with a waterfall from the sky circle and one rose-blossom tree by the well.
+  - **LD01:** a lone lit phone booth on a wet desert highway at blue hour, seen through a rain-beaded windshield, in the style of Robby Müller's *Paris, Texas*.
+- **IDs:** these use their own range (LA01–LD01), because a parallel session started T251–T255 ("Slide" prompts) in this lab three minutes before this round.
+- **Runs:**
+  - Free first: the canvas sat on "Loading canvas" for more than 20 seconds in the pane, as in the last six rounds, so all four ran paid under the one-minute rule.
+  - Seedream 5.5 (`seedream_5.5`), t2i, 2K, count 1. Quote 24; `node confirm --credit-ceiling 24`; one `node run` with four submit IDs. Each `creditsAmount` is 6.
+  - **Spent 24 (balance 8,923 → 8,899).** By this log's running total the month is **1,595 of 3,000**, not counting the parallel T251–T255 round if it ran paid.
+  - CLI note: in zsh a flag list held in one variable is passed as a single argument, which caused the first confirm to fail with "unrecognized option". `node run` takes `--credit-token` from `node confirm`, not `--credit-ceiling`.
+- **Canvas:** smart layout put the column at x 4400, y −31117 to −29561.
+- **Files:**
+  - Prompts: `Prompts/LA01…LD01-*-v01.txt`.
+  - Renders: `Renders/LA01…LD01-*-Seedream-paid-v01.png`.
+  - Each take beside its reference: `Renders/contact-sheet-LA01-LD01-lanes-vs-refs.jpg`.
+
+| Take | Node | Submit | Ratio | Size |
+| --- | --- | --- | --- | --- |
+| LA01 | `node_ntfkn8hnz0` | `42ea5386…` | 9:16 | 1440 × 2560 |
+| LB01 | `node_w2pz6j7g5f` | `d75eabbe…` | 21:9 | 3024 × 1296 |
+| LC01 | `node_khs6t2rg84` | `9d113900…` | 3:4 | 1728 × 2304 |
+| LD01 | `node_sfrgr0zynr` | `40a68c33…` | 21:9 | 3024 × 1296 |
+
+**Measurements** (`measure_look.py --lane`):
+
+| Take | Sat | Lum | White | Dark% | Vig | Off target |
+| --- | --- | --- | --- | --- | --- | --- |
+| LA01 | 87 | 154 | 250 | 2 | 0.37 | sat low, far too bright, whites clip, corners darker than the reference |
+| LB01 | 71 | 119 | 251 | 9 | 0.61 | sat low, slightly bright, the sun disc clips |
+| LC01 | 29 | 62 | 219 | 40 | 0.48 | slightly too dark (40% against at most 35) |
+| LD01 | 124 | 42 | 120 | 52 | 0.76 | too saturated and too dark; shadows blue, not green-teal (shG −1) |
+
+**Observations**
+- **LA01:**
+  - The shelter is small at the centre on the horizon line. The road makes a diagonal from the bottom left, and a tall cumulus fills the upper half.
+  - The top corners fall to navy and the blacks are lifted. The cloud is blown out rather than softly blooming, and only the bottom edge is smeared.
+  - The lower half is pale asphalt and sand, so blue covers far less of the frame than the pool does in A1.
+- **LB01:**
+  - The lotus leaf glows translucent yellow-green with lit veins, and droplets shine on it. Crimson lotus flowers stand in the foreground and the mist.
+  - Hands and feet are hidden. Her face is softly lit under the curled leaf.
+  - The robe reads as matte cotton gauze, not glowing silk. The palette is green-gold rather than the reference's gold-cream.
+- **LC01:**
+  - Rings of timber galleries and tiled eaves narrow to a round sky opening. A thin waterfall falls the whole height into mist, and a rose-blossom tree stands beside a round well, with a few warm windows.
+  - About 12–15 rings are visible, the top is clear (no cloud inside the shaft), and the sky circle is large.
+  - Small red paper on the doors is unreadable.
+- **LD01:**
+  - The dashboard and wiper are silhouetted, and raindrops become amber bokeh discs. A lit phone booth stands by a curving wet two-lane road, its reflection on the asphalt, with poles to the horizon and a haloed moon.
+  - The whole frame is deep saturated blue and darker than D2. Grain is faint at phone size.
+
+**Judgement (mine, unconfirmed)**
+- **LC01 is closest to its lane.** It has the C1 grammar (round opening, light column, tiny tree) and a Chinese anchor read in one second. Its weakness is scale: it reads as a very tall building, not an impossible one. **Next lever (scale):** a tiny sky dot, rings "beyond counting", and the upper half dissolving into cloud inside the shaft.
+- **LD01 has the strongest mood and story** ("the call nobody made") and the best foreground element. It is too late and too blue. **Next lever:** move the time to early blue hour with a luminous sky and tan desert, keeping everything else.
+- **LB01 has the right shine source** (the backlit leaf, the droplets), but it is greener and brighter than B, and the silk doesn't glow. **Next lever (material):** a sheer gold-cream silk robe that glows where the sun passes through it, with the sun disc hidden behind the leaf.
+- **LA01 is a pleasant clean film snapshot but not 氛围柔光:** too bright, too little blue, no real bloom. **Next lever (ladder step 1, route):** apply Douyin's 氛围柔光 to LA01 in the editor (free) before another prompt take. If the prompt route continues, make blue fill the lower half (sea or pool in the foreground) and bring the exposure down.
+- **Across all four,** our takes are cleaner and brighter than the references, with less air between the planes.
+
+**Owner's verdict on LA01–LD01 (2026-11-25):** "theme wise, not catchy or interesting enough, keep going for each." On the sleeper: "not getting the hang of it — like 金箔般的丝绸 有种云雾梦幻的远方, color pallete carefully chosen." On D: "is it too high res or something, it is more on the cinematic side than on a 胶片 side." Both notes went into `LOOKS.md` (lanes B and D, and a "catchy theme" rule for every lane).
+
+## LA02–LD02: round 2, catchier themes, plus the B and D notes (2026-11-25)
+
+- **Brief:** "keep going for each", with the notes above. New themes, each aiming at "a place or motif everyone knows, in an impossible state":
+  - **LA02:** an old public pool whose deck ends at a sea of clouds, with a lifeguard chair against the cumulus.
+  - **LB02:** the sleeper on a floating length of gold-leaf silk above a sea of clouds, with misty jade-blue peaks and two cranes. The palette is a closed list: gold leaf, ivory, a touch of cinnabar, jade-blue mist.
+  - **LC02:** the Mount Tai Eighteen Bends stair rising between sheer cliffs and waterfalls to the South Gate of Heaven above the clouds, with one pine.
+  - **LD02:** a couple slow-dancing on an empty desert highway at blue hour, their car behind them with doors open and headlights on. The look block is rewritten for 胶片: Contax T2 on CineStill 800T, a scanned negative, clumpy grain, soft focus, "not a cinema camera, not a movie still". It ran at 1.5K instead of 2K.
+- **Runs:**
+  - Paid; the free canvas was still unusable in the pane.
+  - Quote 22 (the 1.5K frame costs 4); `node confirm --credit-ceiling 22`; one `node run`.
+  - **Spent 22 (8,899 → 8,877); the month is 1,617 of 3,000 by this log.**
+- **Files:**
+  - Prompts: `Prompts/LA02…LD02-*-v01.txt`.
+  - Renders: `Renders/LA02…LD02-*-Seedream-paid-v01.png`.
+  - Sheet: `Renders/contact-sheet-LA02-LD02-lanes-vs-refs.jpg`.
+
+| Take | Node | Submit | Ratio · res | Credits |
+| --- | --- | --- | --- | --- |
+| LA02 | `node_mmvfbt69j8` | `5cf4b01e…` | 9:16 · 2K | 6 |
+| LB02 | `node_yy5jypwtfd` | `8e98c666…` | 21:9 · 2K | 6 |
+| LC02 | `node_cdfyz75w7a` | `281ff413…` | 3:4 · 2K | 6 |
+| LD02 | `node_k0m8346dte` | `4dfafdbe…` | 21:9 · 1.5K (2268 × 972) | 4 |
+
+**Measurements:**
+- **LA02:** sat 110, lum 119, vig 0.41. On target except clouds at 245 and corners darker than the reference.
+- **LB02:** lum 161, far too bright; warm everywhere (shadow R−B +71).
+- **LC02:** sd 57 and sky at 245: more contrast than C.
+- **LD02:** sat 115, a little high; shadows not green (shG −2). Lum 84, black 21 and white 219 are all in range.
+
+**Observations**
+- **LA02:**
+  - Cobalt water with caustics fills the lower half. The cracked deck ends at a flat sea of cloud with towering cumulus, and a white lifeguard chair stands at the edge.
+  - The heavy round vignette looks like a cheap compact. It is still sharp, with little bloom.
+- **LB02:**
+  - She sleeps in billowing crinkled gold fabric above a cloud sea, with misty blue peaks and two cranes. A red sash shows at the waist, and there is no green.
+  - The fabric reads as shiny gold lamé, and the whole sky is washed-out cream-gold. A strand of hair hangs below the silk.
+- **LC02:**
+  - A long straight stair between wet granite cliffs, with waterfalls on both sides, bands of mist, the red-walled gate at the top and a pine at the foot.
+  - The sky opening did not appear: the gate sits in the V of the cliffs.
+- **LD02:**
+  - The couple embrace in the middle of the road with her dress blown sideways. The car's light flares red-orange behind them, and the wet asphalt and a sunset band glow on the horizon.
+  - At 100% the grain is visible, the focus soft and the blacks milky, with halation around the car light: clearly more 胶片 than LD01.
+  - The pose reads close to a pre-wedding photoshoot.
+
+**Judgement (mine, unconfirmed)**
+- **LA02 passes the one-second test.** You know it's a pool and you know it can't be. It's the first lane-A frame with a hook; the finish is still crisper than 氛围柔光.
+- **LC02 is a strong cultural anchor and destination** (十八盘 to 南天门). The risk is plausible-big: Mount Tai really looks a bit like this. The next lever is scale: the stair continuing above a cloud layer, with the gate tiny far above.
+- **LD02 moved toward 胶片.** Next: a less posed moment (a candid step or a laugh away from camera, not a near-kiss), and lower saturation.
+- **LB02 hit the gold silk and the cloud distance,** but the shine is metallic. The owner's follow-up is below.
+
+**Owner, mid-round (2026-11-25), on the gold sleeper:** "still the gold sky is a bit off — the original might have a 胶片 柔光滤镜 cinematic lens. the shining is soft glow obviously."
+
+## LB03: the sleeper retaken with film and a soft-glow filter (2026-11-25)
+
+- **Change from LB02:** the finish only. The camera line became Kodak Portra 400 on a cine 50mm through a Black Pro-Mist 1/2: "the shine is a soft glow… nothing crisp, glittery or metallic".
+  - The silk is sheer, with gold leaf beaten in, glowing amber where the sun passes through it.
+  - The sky is "soft hazy blue-grey, warm only close to the sun".
+  - The avoid line adds metallic lamé, foil glitter, hard specular highlights and an all-gold sky.
+  - Scene, framing and palette list are unchanged.
+- **Run:** quote 6, `node confirm --credit-ceiling 6`, `node run`. Node `node_pm3p62srfv`, submit `63a2bc17…`. 21:9 at 2K (3024 × 1296). **Spent 6 (8,877 → 8,871); the month is 1,623 of 3,000 by this log.**
+- **Files:**
+  - Prompt: `Prompts/LB03-Guofeng-Gold-Leaf-Silk-Sleeper-SoftGlow-v01.txt`.
+  - Render: `Renders/LB03-…-Seedream-paid-v01.png`.
+  - Progress sheet, from the reference through LB01 and LB02 to LB03: `Renders/contact-sheet-LB01-LB03-sleeper-progress.jpg`.
+- **Measurements:** sat 69, lum 167, black 73, white 244. Against B1 (sat 77, lum 101, black 10): much paler and much milkier.
+- **Observations:**
+  - The sheer translucent silk carries scattered gold-leaf flakes, a few shaped like stars. No metallic sheen.
+  - She sleeps in ivory with a red sash, above a cloud sea, with misty blue-grey peaks and one crane.
+  - The sky is hazy blue-grey with warmth only near the sun. Every edge is soft; there are no deep shadows anywhere.
+- **Judgement (mine, unconfirmed):**
+  - The soft-glow finish fixed the two things the owner named: no lamé shine, and no all-gold sky.
+  - It overshot into a washed-out, low-contrast frame, and the gold is now pale cream, weaker than B1's rich amber.
+  - **Next lever (filter strength):** Pro-Mist 1/4 instead of 1/2. Drop "lifted milky blacks" and "highlights melt", and ask for "rich amber gold, deep warm shadows under the silk". Keep the rest.
+
+**Owner on LB03 (2026-11-25):** "the gold original has more shadow and light contrast, and other elements afar, some more color."
+
+## LB04: the sleeper with contrast, far elements and colour (2026-11-25)
+
+- **Changes from LB03** (the owner's three notes, taken together):
+  - **Lighter diffusion:** Pro-Mist 1/4 instead of 1/2, with no "lifted milky blacks" or "highlights melt".
+  - **Contrast:** a late, low sun behind-right; deep warm brown and blue-grey shadow in the folds, the robe and the cloud undersides.
+  - **The far distance:** crimson and rust-orange maple islands rise from the cloud sea at several distances, with one faint peak, drifting maple leaves, and an out-of-focus maple branch in the lower-left corner.
+  - **Palette list:** amber gold, ivory, crimson and rust maple, cinnabar, blue-grey cloud shadow.
+  - The cranes are gone. The avoid line adds washed-out haze and flat low contrast.
+- **Run:** node `node_697mgbhkj4`, submit `f8ddda83…`, 21:9 at 2K (3024 × 1296).
+  - `node quote` returned **0**. I confirmed with ceiling 6 and ran it.
+  - The resource then reported `creditsAmount` 6, so I treat it as **6 spent**. The month is **1,629 of 3,000** by this log.
+  - The balance went 8,871 → 8,835 (−36) over the same minutes. The other 30 is most likely the parallel T251–T255 round (5 × 6); that session should log it.
+  - **Lesson:** a quote of 0 did not mean free here.
+- **Files:**
+  - Prompt: `Prompts/LB04-Guofeng-Gold-Leaf-Silk-Sleeper-Contrast-v01.txt`.
+  - Render: `Renders/LB04-…-Seedream-paid-v01.png`.
+  - Progress sheet: `Renders/contact-sheet-LB01-LB04-sleeper-progress.jpg`.
+
+**Measurements**
+
+| Frame | Sat | Lum | Sd | Black | White | Dark% |
+| --- | --- | --- | --- | --- | --- | --- |
+| B1 reference | 77 | 101 | 53 | 10 | 210 | 11 |
+| LB03 | 69 | 167 | 47 | 73 | 244 | 0 |
+| LB04 | 90 | 96 | 50 | 20 | 231 | 8 |
+
+LB04 is on target for lane B except white (231, against at most 230).
+
+**Observations**
+- **Light:** she sleeps in the middle on sheer gold silk, under a low warm sun from the right with blue-grey cloud shadow. The silk glows softly, with no metallic sheen. Her face is in soft shade.
+- **The silk's pattern:** the model drew "gold leaf beaten in" as a woven pattern of gold maple leaves.
+- **The distance:** crimson and orange maple islands rise from the cloud sea at three or four distances, with a peak on the horizon and leaves drifting.
+- **The foreground:** a red maple branch, out of focus, crosses the lower left.
+
+**Judgement (mine, unconfirmed)**
+- **The closest any lane has come to its reference.** Contrast, palette and the far elements match B1, and the shine is soft.
+- **The risk is now the opposite one:** it sits very close to MosaicEcho's own frame (a woman asleep on gold fabric above a cloud sea with maple islands). For a set, keep this finish and palette, but find our own idea and our own wide–close pairs.
+- **The maple-leaf pattern** is pretty, but may read as decorative fabric rather than gold leaf.
+
+**Owner's verdict on LB04 (2026-11-25):** "yea thats much closer can lock, write skill."
+
+**Skill change: lane B locked on LB04.**
+- **`LOOKS.md`:**
+  - Lane B is rewritten as locked: the owner's five keys, the v03 look block, the "there when" list, the re-centred numbers, and a table of how LB01–LB04 got there.
+  - The lane table marks B as locked, and lane D is renamed "Film texture (胶片)".
+  - A new "Format" section records the owner's ratio decision: A 9:16, B 21:9, C 3:4, D 21:9. Lane A's look block now says 9:16.
+- **`EXAMPLES.md`:** the LB04 prompt, under "Lane B · LB04 gold-leaf silk sleeper".
+- **`scripts/measure_look.py`:** the lane B ranges are re-centred on LB04 and B1. LB04, B1 and B2 read on target; LB01, LB02 and LB03 do not.
+- **`SKILL.md`:**
+  - §3 points the format line at each lane's ratio.
+  - §4 says to log the resource's `creditsAmount` after every run, since LB04 quoted 0 but was charged 6.
+- **Supporting evidence:** LB01–LB04 and the owner's notes on each.

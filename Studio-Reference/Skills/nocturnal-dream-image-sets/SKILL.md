@@ -1,6 +1,6 @@
 ---
 name: nocturnal-dream-image-sets
-description: Make Nocturnal Dream image sets (图文 posts for Douyin and 小红书) - an ordered run of photographic AI stills with a liminal, haunted-memory mood. Use for pitching set ideas, writing still prompts, generating test images on Jimeng, reviewing results, building and logging a set. For video work use the nocturnal-dream skill.
+description: Make Nocturnal Dream image sets (图文 posts for Douyin and 小红书) - an ordered run of photographic AI stills with a liminal, haunted-memory mood, built in one of four target looks (氛围柔光 soft glow, 国风 shine, mega core, cinema film texture). Use for pitching set ideas, writing still prompts, generating test images on Jimeng, reviewing and measuring results, building and logging a set. For video work use the nocturnal-dream skill.
 ---
 
 # Nocturnal Dream: Image Sets
@@ -8,6 +8,14 @@ description: Make Nocturnal Dream image sets (图文 posts for Douyin and 小红
 An image set is 6–9 stills posted as one 图文, swiped in order, with music. It succeeds when the first image stops the scroll and the rest make the viewer feel something they can't quite name.
 
 These rules come from the owner's reactions to test images. They are still proposals until released sets have audience data. Change them when the owner's feedback or the data says so, and note what changed and why in the scene's REVIEW.md.
+
+**Target looks.** The owner's quality bar (2026-11-25) is four looks, one per lane, in [LOOKS.md](LOOKS.md):
+- **A:** 氛围柔光 soft glow.
+- **B:** 国风 shine.
+- **C:** mega core.
+- **D:** cinema film texture.
+
+Start every new set from one lane: its look block, its "there when" checks and its ladder of fixes. Where a lane's look block differs from the defaults in §3, the lane wins.
 
 ## 1. Taste
 
@@ -52,8 +60,11 @@ Pitch at least three ideas that differ in what the viewer experiences, not only 
 
 Write about 200–250 words in five short parts. See [EXAMPLES.md](EXAMPLES.md) for covers that worked.
 
-1. **Format.** Vertical 3:4 photograph.
-2. **Camera and film.** One real camera, lens and film or sensor, the year, and how the print or file has aged. Prefer cameras an ordinary person owned: a 35mm SLR, a rangefinder, a compact, a disposable. Let the film carry the colour. Don't add palette lists or diffusion filters.
+1. **Format.** Vertical 3:4 photograph by default. A set in a lane uses that lane's ratio from [LOOKS.md](LOOKS.md#format-decided-by-the-owner-2026-11-25): A 9:16, B 21:9, C 3:4, D 21:9.
+2. **Camera and film.** For a set in a lane, paste that lane's look block from [LOOKS.md](LOOKS.md) here; it names its own camera, film, filter and palette. Otherwise:
+   - Name one real camera, lens and film or sensor, the year, and how the print or file has aged.
+   - Prefer cameras an ordinary person owned: a 35mm SLR, a rangefinder, a compact, a disposable.
+   - Let the film carry the colour. Don't add palette lists or diffusion filters.
 3. **Where the camera is.** A person's own viewpoint (a doorway, a seat, a window, standing height), with the tilt, what is sharp, and what is soft in front. Use a tripod or a high view only when the place calls for it.
 4. **The scene, with its light inside it.**
    - The place, the hour, and specific everyday objects near, middle and far.
@@ -78,11 +89,12 @@ Craft notes:
 - **Paid only when the free queue is stuck**, and only within the month's approved cap (see [Subscriptions](../../Subscriptions.md)). Save the node, run `node quote`, confirm with `--credit-ceiling` set to the quote, then run. Never run a model you have not quoted. Log every charge.
 - When editing a saved node, pass `--prompt` again, or the edit fails and the quote stays stale.
 - Download results with `dreamina-canvas resource download` into the scene's `Renders/`, keeping every take, including rejects.
+- After every run, read `creditsAmount` on the resource and log that figure. On 2026-11-25, LB04 quoted 0 but was charged 6.
 
 ## 5. Reviewing a result
 
 For each image, write two separate things:
-- **Observations:** what is actually in the frame, including what differs from the prompt.
+- **Observations:** what is actually in the frame, including what differs from the prompt. For a set in a lane, also run `python3 scripts/measure_look.py <render> --lane <A-D>` and note any off-target numbers.
 - **Judgement:** whether it works, marked as yours until the owner confirms.
 
 Check:
@@ -104,6 +116,7 @@ Choose the structure before generating the rest:
 Rules for every set:
 - Image 1 is the strongest image, not the establishing one.
 - Use one look across the set: copy the Look and era, Camera position and Light blocks into every prompt, and change only what the structure changes.
+- Cut between wide and close. Follow a world-scale wide with a macro of skin, a leaf, a droplet, a hand or a material, in the same light and palette. All the owner's references do this; most of our sets have stayed at one distance.
 - The last image pays off or leaves a question that people will answer in the comments.
 - Lay the finished set side by side at phone size before posting. Check the light, colour and order.
 

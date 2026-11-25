@@ -2,6 +2,8 @@
 
 Covers the owner liked. Read them for tone, length and viewpoint, not to copy. Each was used on Seedream 5.5 at 3:4.
 
+When a take hits one of the lanes in [LOOKS.md](LOOKS.md), add its prompt here under a "Lane A–D" heading.
+
 ## The Same Afternoon
 
 ```text
@@ -72,4 +74,20 @@ Light: one source. The colour of the whole room comes from the screen: the blue-
 Mood: someone is watching a memory that may not be his. Quiet, longing, slightly unreal, as if the film is the only warm thing left in the building.
 
 Avoid: readable text, logos, faces, horror cues, modern multiplex interior, clean digital sharpness, HDR, cinematic teal-orange grading.
+```
+
+## Lane B · LB04 gold-leaf silk sleeper
+
+Locked by the owner on 2026-11-25 ("much closer, can lock"). Seedream 5.5, t2i, 21:9, 2K. Render: `Scenes/Image-Set-Lab/Renders/LB04-Guofeng-Gold-Leaf-Silk-Sleeper-Contrast-Seedream-paid-v01.png`. Its first paragraph is the lane-B look block; the rest shows how a scene fills it.
+
+```text
+Widescreen 21:9 photograph on 35mm colour negative film, Kodak Portra 400, a cinematic 50mm lens shot through a Black Pro-Mist 1/4 diffusion filter, late golden sun low behind the subject on the right. Strong light and shadow: the sun rims every edge with a soft glowing halo, while the folds of the silk, her robe and the cloud undersides fall into deep warm brown and blue-grey shadow. The shine is a soft glow, never glittery or metallic. Fine film grain, rich colour, real skin texture. The palette, and nothing outside it: rich amber gold, warm ivory, crimson and rust-orange maple, a touch of cinnabar red, and blue-grey cloud shadow.
+
+Camera: at the subject's height, slightly behind and to one side, long lens. She lies in the middle of the frame; the far distance opens up behind her. A soft out-of-focus maple branch with crimson leaves crosses the lower left corner.
+
+Scene: late afternoon, high above a sea of clouds. A vast length of sheer silk with gold leaf beaten into it floats in the air like a hammock with no ropes; where the low sun passes through it, it glows a deep amber gold, and its folds hold dark warm shadow. On it a young woman in ivory silk lies asleep on her side, her long black hair spread over the gold, a thin cinnabar-red ribbon at her wrist, her hands and feet hidden in the folds. A raised fold of the silk keeps her face in shade. Far behind her, islands of crimson and rust-orange autumn maple trees rise out of the cloud sea at different distances, smaller and paler as they recede, with one faint mountain peak on the horizon. A few maple leaves drift through the air.
+
+Mood: weightless and precious, asleep at the edge of a faraway dream. Warm, hushed, unreal.
+
+Avoid: washed-out pale haze, flat low contrast, metallic lamé, foil glitter, an all-gold sky, green tones, smooth plastic skin, game-engine render, text.
 ```
