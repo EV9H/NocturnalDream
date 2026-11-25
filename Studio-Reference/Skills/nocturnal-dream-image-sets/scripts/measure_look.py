@@ -27,15 +27,18 @@ from PIL import Image
 # Ranges come from the owner's reference stills (LOOKS.md), widened a little,
 # because the references were measured from compressed phone screenshots.
 TARGETS = {
-    "A": {"sat": (100, 135), "lum": (90, 120), "black": (20, 45), "white": (195, 235),
-          "dark%": (0, 12), "vig": (0.45, 0.85), "shR-B": (-80, -15), "hiR-B": (0, 45)},
+    # A is locked on LA02 (owner, 2026-11-25): re-centred on LA02 and the A1 reference.
+    "A": {"sat": (100, 130), "lum": (95, 125), "black": (15, 45), "white": (195, 248),
+          "dark%": (0, 12), "vig": (0.35, 0.85), "shR-B": (-80, -35), "hiR-B": (0, 40)},
     # B is locked on LB04 (owner, 2026-11-25): re-centred on LB04 and the B1 reference.
     "B": {"sat": (75, 120), "lum": (85, 110), "black": (5, 45), "white": (185, 235),
           "dark%": (0, 15), "shR-B": (-5, 35), "hiR-B": (35, 80)},
-    "C": {"sat": (20, 55), "lum": (55, 85), "sd": (20, 50), "white": (150, 220),
+    # C is confirmed on LC07 (owner, 2026-11-25): re-centred on LC07, C1 and C2.
+    "C": {"sat": (15, 50), "lum": (60, 100), "sd": (20, 50), "white": (150, 220),
           "dark%": (0, 35)},
-    "D": {"sat": (50, 100), "lum": (50, 100), "white": (110, 235), "dark%": (5, 55),
-          "shR-B": (-25, 15), "shG": (2, 25), "hiR-B": (-35, 60)},
+    # D is locked for now on LD04 (owner, 2026-11-25): re-centred on LD04 and D1-D3.
+    "D": {"sat": (45, 100), "lum": (50, 100), "white": (110, 235), "dark%": (5, 55),
+          "shR-B": (-25, 15), "shG": (0, 25), "hiR-B": (-35, 60)},
 }
 
 COLUMNS = ["sat", "lum", "sd", "black", "white", "dark%", "vig", "shR-B", "shG", "hiR-B"]

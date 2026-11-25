@@ -91,3 +91,51 @@ Mood: weightless and precious, asleep at the edge of a faraway dream. Warm, hush
 
 Avoid: washed-out pale haze, flat low contrast, metallic lamé, foil glitter, an all-gold sky, green tones, smooth plastic skin, game-engine render, text.
 ```
+
+## Lane C · LC07 moon gate of heaven
+
+Confirmed by the owner on 2026-11-25 ("finally a really good one"). Seedream 5.5, t2i, 3:4, 2K. Render: `Scenes/Image-Set-Lab/Renders/LC07-Mega-Moon-Gate-of-Heaven-Seedream-paid-v01.png`. Its first paragraph is the lane-C look block; the scene shows the composition to keep while the myth changes.
+
+```text
+Vertical 3:4 photograph, low-angle view, centred and symmetric. Medium-format film printed flat and matte: low contrast, no true black, no pure white, slightly faded, soft haze. Near-monochrome slate grey and pale stone, with one muted accent of dusty rose. Soft moonlight through mist.
+
+Camera: on a dark rocky ridge far below, looking up with a wide lens.
+
+Scene: the Gate of Heaven. An ancient Chinese moon gate of weathered pale stone, a perfect circle as large as a mountain range, stands alone in a sea of clouds. Its curve fills the frame and runs off the top and both sides, carved with faint worn patterns, and dusty-rose blossom trees cling along its upper rim. Through its round opening hangs one full moon in a pale sky. Long thin waterfalls pour from the inner edge of the arch and fall thousands of metres, dissolving into mist long before they reach the clouds. Far below, on the dark rocks at the bottom centre, stands one small blossoming tree.
+
+Mood: majestic, mythical and silent; a gate you are meant to walk through one day. The place you want to end up.
+
+Avoid: walls, wells, pits, tunnels, other buildings, people, saturated colour, sci-fi neon, spaceships, HDR, crisp digital detail, fantasy glow, text.
+```
+
+## Lane A · LA02 pool above the clouds
+
+Locked by the owner on 2026-11-25 ("A can lock too"). Seedream 5.5, t2i, 9:16, 2K. Render: `Scenes/Image-Set-Lab/Renders/LA02-SoftGlow-Pool-Above-the-Clouds-Seedream-paid-v01.png`. Its first paragraph is the lane-A look block.
+
+```text
+Vertical 9:16 photograph on a 35mm compact with a 28mm lens, Kodak Ektar 100, shot through a Black Pro-Mist 1/2 filter, bright midday summer sun, exposed for the sky so nothing burns out. Highlights bloom softly and clouds glow at their edges. Blacks are lifted and milky; no pure black, no pure white. A heavy natural lens vignette darkens all four corners to deep blue. The frame edges are soft and smeared; only the centre is sharp. Saturated cobalt sky and water, navy shadows, warm cream sunlight on pale surfaces.
+
+Camera: handheld at standing height at one corner of the pool deck, slightly tilted, looking along the long side of the pool. The pool edge runs as one strong diagonal from the bottom left toward the far end.
+
+Scene: an old public outdoor swimming pool with a pale concrete deck, a chrome ladder and faded lane lines on the bottom. Deep cobalt water fills the lower half of the frame. The far edge of the deck simply ends, and beyond it, at the same height, lies an endless sea of white cloud, flat to the horizon, with towers of cumulus rising out of it into a deep blue sky. A single white lifeguard chair stands at the far end against the clouds. No land, no buildings, no people.
+
+Mood: the pool from every summer you remember, floating somewhere above the world. Bright, empty, a little too quiet.
+
+Avoid: people, readable text or signs, mountains, city, HDR, crisp digital sharpness, fantasy sparkle, lens-flare streaks.
+```
+
+## Lane D · LD04 highway slow dance, warm key
+
+Locked for now by the owner on 2026-11-25 ("D can lock for now… it is the best when it is video"). Seedream 5.5, t2i, 21:9, 1.5K. Render: `Scenes/Image-Set-Lab/Renders/LD04-Film-Highway-Slow-Dance-WarmKey-Seedream-paid-v01.png`. Its first paragraph is the lane-D look block. The model turned the embrace into a kiss, so add "not kissing" when that is not wanted.
+
+```text
+Wide 21:9 frame on 35mm colour negative film, Kodak Portra 800 pushed one stop, a vintage anamorphic 85mm lens shot wide open through a Black Pro-Mist 1/2 diffusion filter. Soft and low in contrast: every light blooms into a wide, gentle halo, and highlights stay creamy, never bright white. Muted colour: a soft grey-lavender dusk sky, dusty warm tan desert, green-teal shadows, and warm amber light on skin. Fine visible grain. Very shallow depth of field: the background is a soft blur with oval out-of-focus lights.
+
+Camera: handheld at chest height a few metres from the couple, a medium shot from the waist up, slightly tilted; they fill the middle of the frame.
+
+Scene: an empty two-lane desert highway at the end of blue hour, the wind blowing hard. A young couple slow-dance in the middle of the road, wrapped close: her head on his shoulder with her eyes closed, his face turned into her hair. His dark suit jacket hangs over her bare shoulders, and the wind lifts her hair across both of them. Their car is parked just out of frame to the right, and its headlights rake across them at a low angle, lighting her face, her shoulder and his hand in warm amber while everything behind them stays in cool dusk. Behind them, blurred: the road's pale lines, telephone poles and a few wind turbines on the flat horizon.
+
+Mood: the song on the car radio, nobody else for a hundred miles. Tender, windy, a little sad.
+
+Avoid: an all-blue frame, sunset colours, red glare, saturated colour, hard contrast, posed smiles, smooth plastic skin, clean digital sharpness, HDR, glossy movie-poster look, text.
+```

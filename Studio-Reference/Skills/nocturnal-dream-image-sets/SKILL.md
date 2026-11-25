@@ -83,13 +83,16 @@ Craft notes:
 
 ## 4. Generating on Jimeng
 
+See [JIMENG-CLI.md](JIMENG-CLI.md) for the exact `dreamina-canvas` CLI loop, Seedream 5.5 sizing table, canvas layout, and gotchas.
+
 - **Model: Seedream 5.5 only.** Other models tested so far looked like AI slop or cost far more. Try another only if the owner asks.
 - **One image per run** (count 1) while exploring. Use batches only after a direction is approved.
 - **Free first.** Free Seedream images are started in the Jimeng web canvas with the **0积分畅用** switch on (the CLI has no free option). Before clicking generate, check the switch is on, the price reads 0/张, and the panel shows the right prompt, 3:4 and 1张.
 - **Paid only when the free queue is stuck**, and only within the month's approved cap (see [Subscriptions](../../Subscriptions.md)). Save the node, run `node quote`, confirm with `--credit-ceiling` set to the quote, then run. Never run a model you have not quoted. Log every charge.
 - When editing a saved node, pass `--prompt` again, or the edit fails and the quote stays stale.
 - Download results with `dreamina-canvas resource download` into the scene's `Renders/`, keeping every take, including rejects.
-- After every run, read `creditsAmount` on the resource and log that figure. On 2026-11-25, LB04 quoted 0 but was charged 6.
+- After every run, log the quote, the resource's `creditsAmount` and the balance. A quote of 0 means that run is free, per the official skill. LB04's quote of 0 followed by a `creditsAmount` of 6 is unverified; see [JIMENG-CLI.md](JIMENG-CLI.md).
+- Before generating, also load the official `dreamina-canvas-cli` skill. JIMENG-CLI.md covers how this studio applies it: the one-step single-frame run, referencing the cover for set consistency, retry rules and request IDs.
 
 ## 5. Reviewing a result
 

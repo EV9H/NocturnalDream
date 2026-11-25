@@ -1,16 +1,16 @@
 # Target looks
 
-On 2026-11-25 the owner set the quality bar with eight Douyin stills in four groups. Each group is a **lane**: a finished look we work towards. Lane B is locked; lanes A, C and D are still being tuned.
+On 2026-11-25 the owner set the quality bar with eight Douyin stills in four groups. Each group is a **lane**: a finished look we work towards. All four lanes are now set: A locked on LA02, B locked on LB04, C confirmed on LC07, and D locked for now on LD04.
 
 - **Contact sheet:** [references/vibe-board-2026-11-25.jpg](references/vibe-board-2026-11-25.jpg).
 - **Full screenshots and first analysis:** `Scenes/Image-Set-Lab/References/vibe-board-2026-11-25/` and `Scenes/Image-Set-Lab/VIBE-BOARD-2026-11-25.md`.
 
 | Lane | Look | Reference | What it teaches |
 | --- | --- | --- | --- |
-| A | 氛围柔光 soft glow | an empty desert pool, @24ZR | A real liminal place made into a memory by the filter alone |
+| A | 氛围柔光 soft glow (**locked on LA02**) | an empty desert pool, @24ZR | A real liminal place made into a memory by the filter alone |
 | B | 国风 shine (**locked on LB04**) | gold leaf-boat over a cloud sea, and a maple-leaf close-up; @MosaicEcho马赛回声 | Gold-leaf silk with a soft glow, strong light and shadow, a far distance with things in it |
-| C | Mega core | a light-ringed shaft with a waterfall, and a rose-tree ring with a moon; @MosaicEcho | One colossal form, an opening to the sky, a tiny tree, a dark matte palette |
-| D | Film texture (胶片) | rain-window face, blue-hour desert road, couple lit by a lighter; @赵一帆_ | 35mm grain and halation, one warm practical light at blue hour, wet surfaces |
+| C | Mega core (**confirmed on LC07**) | a light-ringed shaft with a waterfall, and a rose-tree ring with a moon; @MosaicEcho | One mythical, majestic form in open sky framing the moon, with waterfalls, a tiny tree and a matte palette |
+| D | Film texture (胶片) (**locked for now on LD04**; best as video) | rain-window face, blue-hour desert road, couple lit by a lighter; @赵一帆_ | 35mm grain and halation, one warm practical light at blue hour, wet surfaces |
 
 ## Working a lane
 
@@ -42,37 +42,48 @@ The numbers check exposure, palette and finish only. The owner's eye decides.
 
 ---
 
-## Lane A · 氛围柔光 soft glow
+## Lane A · 氛围柔光 soft glow: LOCKED on LA02 (owner, 2026-11-25)
 
-**Target feeling:** "I've been here," seen through a memory: sunny, empty, glowing at the edges.
+**Status:** locked. The owner said "A can lock too". Use this block as written; change only the camera position, the scene and the avoid line. Applying Douyin's 氛围柔光 filter when posting stays available as a finishing touch on top of it.
 
-**Suits:** liminal everyday places under big summer sky or bright sun. For example an outdoor pool, a court, a car park, a roadside motel, a bus stop or a school field. No oddity is needed.
+**Target feeling:** "I've been here," seen through a memory: sunny, empty, glowing at the edges, with one impossible thing.
+
+**Suits:** poolcore and liminal everyday places under big summer sky. Outdoor pools, piers, streets, courts and car parks, each with one impossible change to the space. LA01's ordinary bus stop with no oddity was "not catchy". LA02's pool whose deck ends at a sea of clouds is the locked frame.
+
+**Look block (v02, locked from LA02)**
+```text
+Vertical 9:16 photograph on a 35mm compact with a 28mm lens, Kodak Ektar 100, shot through a Black Pro-Mist 1/2 filter, bright midday summer sun, exposed for the sky so nothing burns out. Highlights bloom softly and clouds glow at their edges. Blacks are lifted and milky; no pure black, no pure white. A heavy natural lens vignette darkens all four corners to deep blue. The frame edges are soft and smeared; only the centre is sharp. Saturated cobalt sky and water, navy shadows, warm cream sunlight on pale surfaces.
+```
+**Avoid:** people, readable text or signs, HDR, crisp digital sharpness, fantasy sparkle, lens-flare streaks.
+
+**Format:** 9:16 at 2K (6 credits).
+
+**Artist palettes on the locked finish (owner, 2026-11-25).** The owner asked for "master-level, artist grade, color palette idea to create the visual impact and cleaniness". Keep the camera, filter and finish of the block. Swap its last sentence (the cobalt palette) for one named painter's palette, written as a closed list. Then add: "Clean composition: very few objects and large flat planes of colour, like a painting."
+
+Palettes on test in LA06–LA11:
+- Hockney's pool paintings: turquoise, pale pink, cerulean.
+- Barragán: magenta-pink, saffron, deep blue.
+- Magritte's daylight: cerulean, soft white, pale stone.
+- Van Gogh: chrome yellow and cobalt.
+- Yves Klein: ultramarine and white.
+- O'Keeffe: soft pink, peach and bone, with one turquoise.
 
 **There when:**
 - All four corners fall off to deep blue.
 - Clouds and bright surfaces bloom softly at their edges.
-- The frame edges are smeared soft while the centre stays readable.
-- The blacks are milky; nothing is pure black or pure white.
-- The shadows go navy and the sunlit surfaces warm cream.
-- Sky and water are saturated cobalt.
+- Blacks are milky; nothing is pure black, and the clouds don't burn out.
+- Shadows go navy and the sunlit surfaces warm cream.
+- Saturated cobalt water and sky fill most of the frame.
+- One strong diagonal, such as a pool edge or a road edge, runs from a bottom corner toward the horizon.
 
-**Numbers:** sat 100–135 · lum 90–120 · black 20–45 · white 195–235 · vig 0.45–0.85 · shR-B −80 to −15 · hiR-B 0–45.
+**Numbers** (re-centred on LA02 and A1): sat 100–130 · lum 95–125 · black 15–45 · white 195–248 · vig 0.35–0.85 · shR-B −80 to −35 · hiR-B 0–40.
 
-**Look block**
-```text
-Vertical 9:16 photograph on a 35mm compact with a 28mm lens, Kodak Ektar 100, shot through a Black Pro-Mist 1/2 filter, bright midday summer sun. Highlights bloom softly and clouds glow at their edges. Blacks are lifted and milky; no pure black, no pure white. A heavy natural lens vignette darkens all four corners to deep blue. The frame edges are soft and smeared; only the centre is sharp. Saturated cobalt sky and water, navy shadows, warm cream sunlight on pale surfaces.
-```
-**Avoid:** HDR, crisp digital sharpness, fantasy sparkle, lens-flare streaks, text.
+**Best so far:** **LA02**, locked by the owner. Its prompt is in [EXAMPLES.md](EXAMPLES.md#lane-a--la02-pool-above-the-clouds).
 
-**Ladder** (change one per take, in this order):
-1. **Route.** The real look is a phone filter, so first try generating a clean still and applying Douyin's 氛围柔光 in the editor when posting. One filter across every image also locks the set's style. Compare that with the prompt route.
-2. **Filter strength:** Pro-Mist 1/4 → 1/2 → 1.
-3. **Vignette and edge-blur wording.**
-4. **Film:** Ektar 100 for cobalt; Portra 400 for softer, warmer skin and sand.
-
-**Watch for:** Seedream's "fantasy glow" (light rays, sparkle) instead of a soft halo, and a glow so strong the place disappears.
-
-**Best so far:** none yet.
+**Watch for:**
+- Seedream's "fantasy glow" (light rays, sparkle) instead of a soft halo.
+- A glow so strong the place disappears.
+- A pale ground (sand, asphalt) eating the frame: LA01 went too bright, with too little blue.
 
 ---
 
@@ -137,95 +148,116 @@ Widescreen 21:9 photograph on 35mm colour negative film, Kodak Portra 400, a cin
 
 ---
 
-## Lane C · Mega core
+## Lane C · Mega core: confirmed on LC07 (owner, 2026-11-25)
 
-**Target feeling:** silent awe and longing, "the place I want to end up" (这，就是我想去的终点).
+**Status:** the owner confirmed LC07, the moon gate of heaven: "finally a really good one". Build lane-C frames from its look block and composition below, and change only the myth or subject.
+
+**Target feeling:** silent awe and longing; mythical, majestic, a sense of destiny. "The place I want to end up" (这，就是我想去的终点).
+
+**The owner's two rules:**
+1. **Lane C is about composition and elements.** Keep the reference's grammar, and vary the subject, not the layout.
+2. **Mythical and majestic, never a well.** "Why are we in a well." The subject that builds the composition is a mythical, majestic form standing in open sky. It is never a pit, shaft, well or any enclosed space. Chinese myth and poetry give the anchor.
+
+**The composition (from LC07):**
+- **The giant:** one colossal mythical form, centred, whose curve fills the frame and runs off the top and both sides. It frames a round opening.
+- **The opening:** the full moon or a pale sky, in the centre of the frame and of the form.
+- **The fall:** long waterfalls pour from the form and dissolve into mist long before they land.
+- **The world below:** a sea of clouds, with ridges fading in the mist.
+- **The anchor:** one small blossoming tree on dark rocks at the bottom centre, the only accent of colour.
+- **The camera:** low, on a dark ridge far below, looking up with a wide lens.
+
+**Look block (v02, from LC07)**
+```text
+Vertical 3:4 photograph, low-angle view, centred and symmetric. Medium-format film printed flat and matte: low contrast, no true black, no pure white, slightly faded, soft haze. Near-monochrome slate grey and pale stone, with one muted accent of dusty rose. Soft moonlight through mist.
+```
+**In every scene, write:**
+- the mythical form and its size, with its curve running off the frame;
+- what fills its opening (moon or sky);
+- the waterfalls dissolving into mist;
+- the sea of clouds below;
+- the one small tree on dark rocks at the bottom centre.
+
+**Avoid:** walls, wells, pits, tunnels, other buildings, people, saturated colour, sci-fi neon, spaceships, HDR, crisp digital detail, fantasy glow, text.
+
+**Format:** 3:4 at 2K (6 credits).
 
 **There when:**
-- **The giant:** one coherent colossal form fills 70–90% of the frame and runs off at least two edges.
-- **The opening:** a hole, ring or shaft-mouth shows sky or a small moon.
-- **Scale:** falling water and mist cross the structure.
-- **The anchor:** one tiny scale mark (a single tree or a tree line) sits at the bottom centre.
-- **The palette:** dark, matte and near-monochrome slate grey, with at most one muted accent such as dusty rose. No black and no white anywhere except the brightest mist.
+- One centred mythical form frames the moon or the sky and runs off three edges.
+- Waterfalls fall from it and vanish into mist; a sea of clouds and misty ridges lie below.
+- One small tree sits at the bottom centre, the only colour.
+- The finish is matte, hazy and near-monochrome, with no black and no white except the moon.
 
-**Numbers:** sat 20–55 · lum 55–85 · sd 20–50 · white 150–220 · dark% 0–35.
+**Numbers** (re-centred on LC07, C1 and C2): sat 15–50 · lum 60–100 · sd 20–50 · white 150–220 · dark% 0–35.
 
-**Look block**
-```text
-Vertical 3:4 photograph, worm's-eye one-point view, centred and symmetric. Medium-format film printed flat and matte: low contrast, no true black, no pure white, slightly faded. Near-monochrome slate grey with one muted accent of dusty rose. Soft light falls only from the opening in the sky above, through thick mist. The structure fills most of the frame and runs off its top and sides; mist and long falls of water cross it. One small tree stands at the bottom centre for scale.
-```
-**Avoid:** saturated colour, sci-fi neon, spaceships, crowds, a blurred foreground layer, HDR, crisp digital detail, fantasy glow, text.
+**Best so far:** **LC07**, confirmed by the owner (sat 24, lum 95, sd 48). Its prompt is in [EXAMPLES.md](EXAMPLES.md#lane-c--lc07-moon-gate-of-heaven).
 
-**Idea in this lane:** look straight up from the courtyard of an impossibly tall 福建土楼. Rings of lit windows climb into cloud, and a thin waterfall falls from the circle of sky into the courtyard well, beside one small tree.
+**More myths for the same grammar:**
+- the Yellow River coming down from heaven (黄河之水天上来). LC06 needs the column to read clearly as falling water.
+- the world tree (建木);
+- the moon palace (广寒宫);
+- 不周山, the pillar of heaven;
+- 鹊桥, the magpie bridge across the Milky Way.
 
-**Ladder:**
-1. **Scale devices:** cut off by the frame, mist crossing, a longer fall of water. Seedream ignores "as tall as X" comparisons, so show the size instead.
-2. **Flat, matte print wording.**
-3. **Viewpoint:** worm's-eye centred, or from far off with the horizon low.
-4. **The opening:** sky, moon or light.
+**How we got here** (2026-11-25):
+
+| Take | What it was | Verdict |
+| --- | --- | --- |
+| LC01 | A tall 土楼 well looking up | "theme not catchy" |
+| LC02 | The Mount Tai stair to the South Gate | "far from original": broke the composition |
+| LC03–LC05 | A tiankeng ring city with a waterfall | Grammar matched, but "why are we in a well" |
+| LC06 | The Yellow River coming down from heaven, star trails | Open sky; the column reads as a rising plume |
+| LC07 | A mountain-sized moon gate framing the moon, waterfalls, one tree | "finally a really good one" |
 
 **Watch for:**
+- Wells, pits, shafts and canyons, which the owner rejected.
 - Stacks of small buildings instead of one mass (T218, T220).
 - A blurred foreground plus a middle layer plus a far giant (T151–T154). C has a single small anchor, not a foreground layer.
 - Plausible-big, which reads as a real place.
-
-**Best so far:** none yet.
+- The model doubling the form: LC07 drew two nested arches. The owner liked it as it is, so don't "fix" it unless asked.
 
 ---
 
-## Lane D · Film texture (胶片)
+## Lane D · Film texture (胶片): LOCKED for now on LD04 (owner, 2026-11-25)
 
-**Target feeling:** a real film photograph someone took on a night that mattered: lonely, tender, windy, night coming on.
+**Status:** locked for now. The owner: "D can lock for now, stop chasing; it is the best when it is video." Use this block for D stills, and don't spend more takes tuning it. The look is meant for video, so for moving D work use the nocturnal-dream (video) skill and carry this lens, filter and colour into the video prompt.
 
-**胶片, not cinema (owner, 2026-11-25, after LD01).** LD01, a phone booth seen through a windshield, was "more on the cinematic side than on a 胶片 side". The owner asked whether it was too high-res. My reading of the causes:
-- The block asked for a motion-picture stock, an anamorphic lens and a "film still".
-- The render was clean 2K digital with no grain and deep, clean blacks.
-- The 21:9 letterbox itself says cinema.
+**Target feeling:** a real film photograph, or a film frame, from a night that mattered: lonely, tender, windy, night coming on.
 
-The block below now asks for a still-film camera, a scanned negative, clumpy grain and softness. LD02 tests it at 1.5K. If it still reads as cinema, the next lever is the 35mm still frame (3:2), instead of 21:9.
+**Lane D is about the look** (owner): lens, filter, colour. It is 胶片, not glossy cinema.
 
-**There when:**
-- **Grain** is visible at phone size, and every light (moon, headlights, lighter, bokeh) has a soft halo.
-- **Highlights** fade gently: a lit face never goes shiny-white.
-- **Colour:** shadows lean green-teal, while skin and the practical light stay warm. Saturation is modest.
-- **Light:** late blue hour plus one warm practical light in the frame.
-- **Wet surfaces** carry the sparkle: rain on glass, a wet road, wet skin. Wind moves hair or cloth.
-- **Depth of field** is shallow, with an out-of-focus element in the foreground.
-
-**Numbers:** sat 50–100 · lum 50–100 · white 110–235 · dark% 5–55 · shG 2–25 (green-teal shadows) · shR-B −25 to 15.
-
-**Look block (v02, after the owner's 胶片 note)**
+**Look block (v03, locked from LD04)**
 ```text
-Wide 21:9 frame cropped from a 35mm film photograph: a Contax T2 compact on CineStill 800T, pushed one stop, scanned from the negative. Heavy, clumpy film grain across the whole frame, slightly soft focus, red-orange halation glowing around every light, highlights that bloom and roll off, milky lifted blacks with a green-teal cast, warm skin, colours slightly shifted. Not a cinema camera and not a movie still: a real photograph a friend took, a little imperfect. Late blue hour, lit by one warm practical source in the frame.
+Wide 21:9 frame on 35mm colour negative film, Kodak Portra 800 pushed one stop, a vintage anamorphic 85mm lens shot wide open through a Black Pro-Mist 1/2 diffusion filter. Soft and low in contrast: every light blooms into a wide, gentle halo, and highlights stay creamy, never bright white. Muted colour: a soft grey-lavender dusk sky, dusty warm tan desert, green-teal shadows, and warm amber light on skin. Fine visible grain. Very shallow depth of field: the background is a soft blur with oval out-of-focus lights.
 ```
-**Avoid:** posed smiles, smooth plastic skin, clean digital sharpness, HDR, blockbuster orange-and-teal, glossy movie-poster look, text.
+**In every scene, write:**
+- a medium shot on the long lens;
+- one warm practical light raking across the subjects up close (headlights, a lighter, a lamp), against cool dusk;
+- a grey-lavender sky and warm tan ground.
 
-**Resolution:** 1.5K (4 credits) is on test against 2K for a softer, more 胶片 file.
+**Avoid:** an all-blue frame, sunset colours, red glare, saturated colour, hard contrast, posed smiles, kissing unless asked, headlights or glare in the frame, smooth plastic skin, clean digital sharpness, HDR, glossy movie-poster look, text.
 
-The v01 block gave LD01's cinema look: "Cinematic film still on 35mm Kodak Vision3 500T with an anamorphic lens… In the style of [one master]". Keep it only for a deliberate film-still look.
+**Format:** 21:9 at 1.5K (4 credits).
 
-**One master per prompt** (for the v01 film-still block). The reference creator says their style line names only one master. Test these one at a time (my guesses from the frames):
-- Wong Kar-wai with Christopher Doyle, for rain, neon and close faces.
-- Robby Müller's *Paris, Texas*, for empty roads and dusk.
-- Bradford Young, for low-key, underexposed, soft light.
+**Numbers** (re-centred on LD04 and the D references): sat 45–100 · lum 50–100 · white 110–235 · dark% 5–55 · shG 0–25 · shR-B −25 to 15.
 
-**People:**
-- Empty places carry this texture well; the desert-road frame has no one in it.
-- Couples belong only in the romantic lane the owner already likes, 散场以后. Elsewhere the space is the subject, with no romance beats.
+**Best so far:** **LD04**, locked for now. Its prompt is in [EXAMPLES.md](EXAMPLES.md#lane-d--ld04-highway-slow-dance-warm-key).
 
-**Ladder:**
-1. **The still-film line:** CineStill 800T or Portra 800 pushed; Contax T2, Olympus mju-II or a 35mm SLR.
-2. **Resolution:** 1.5K against 2K.
-3. **Format:** 21:9 crop against the full 35mm still frame (3:2).
-4. **The practical light:** what it is and where it sits.
-5. **The wet surface.**
+**How we got here** (2026-11-25):
+
+| Take | Change | Result |
+| --- | --- | --- |
+| LD01 | Vision3 500T, anamorphic, "film still", phone booth | "More cinematic than 胶片" |
+| LD02 | Contax T2 on CineStill 800T, scanned negative, 1.5K; a slow dance | More 胶片, but saturated, with a sunset band and red glare |
+| LD03 | Anamorphic with Pro-Mist, muted colour, wide shot | Soft, but all blue, with the warm light far away |
+| LD04 | 85mm medium shot, headlights raking warm across them, lavender sky, tan land | Locked for now. The model made them kiss, and the headlight shows in the corner |
+| LD05 | Slow shutter, no kiss, no glare | Softer and better posed, but it lost the warm key |
+
+**People:** couples belong only in the romantic lane the owner already likes, 散场以后. Empty places carry this texture well too.
 
 **Watch for:**
-- Muddy crushed blacks with an orange cast (rejected in 散场以后).
+- Muddy crushed blacks with an orange cast.
 - Over-graded teal-and-orange.
-- Script-like smiles or poses.
-
-**Best so far:** none yet.
+- Scripted smiles or poses.
 
 ---
 
@@ -250,5 +282,4 @@ Seedream 5.5 on Jimeng offers all of these (`--ratio 9:16 | 21:9 | 3:4 | 3:2`).
 
 ## Open decisions (owner)
 
-- **Lane A route:** the Douyin filter when posting, or the prompt.
 - **People in B and D:** how often a person is the subject.
