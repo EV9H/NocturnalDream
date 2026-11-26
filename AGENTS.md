@@ -3,6 +3,7 @@
 ## Start here
 
 - For studio creative or production work, load the [nocturnal-dream skill](Studio-Reference/Skills/nocturnal-dream/SKILL.md). Open its linked chapters for the current task. Use [START-HERE.md](START-HERE.md) to locate studio resources. Read the current source files and follow the user's brief for shot-specific decisions.
+- Before you pitch, write a prompt, or review a still or take, read [OWNER-TASTE.md](Studio-Reference/OWNER-TASTE.md). It holds the owner's verdicts on past rounds and how to work from a baseline the owner liked. Where it disagrees with a skill, it wins.
 - Every scene needs a perceptible cultural anchor that relates to its intended Douyin audience, an alteration, and an intended emotion. People and signs of everyday use are optional. Apply the scene-first workflow.
 
 ## Approval and production records

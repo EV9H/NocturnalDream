@@ -827,3 +827,19 @@ The artist palettes push several frames high-key (lum 157–190), past lane A's 
   - the one-step `node create … --run --credit-ceiling --wait`.
 - **Also new:** keeping job state and `meta.requestId` in REVIEW; consistency across a set via `--mode i2i --ref node:<cover>`; exit-code retry rules; post-editing.
 - **The quote-0 gotcha** is rewritten as unverified. SKILL.md §4 now points to the official skill and JIMENG-CLI.md.
+
+## Skill change: shared owner-taste file, image-set skill brought in line (2026-11-26)
+
+**Why.** The owner asked why Gemini in Antigravity (4 Carbon High, 4 Neon Medium) couldn't match the studio aesthetic. The evidence is the Shanghai After the Snow v10–v12 round (13 stills, 78 credits, all rejected; see that scene's REVIEW.md). Claude's taste notes lived only in Claude's private memory, so Gemini never saw them. It never compared against the take 07 baseline until the third miss, and it scored its own frames "10/10".
+
+**What changed.**
+- **New:** [Studio-Reference/OWNER-TASTE.md](../../Studio-Reference/OWNER-TASTE.md) holds the owner's verdicts and working habits for every agent. AGENTS.md (loaded into every Antigravity chat), START-HERE.md and both skills link to it, and it wins over skill text where they disagree.
+- **Image-set `SKILL.md`:**
+  - §7: captions no longer end with a question (owner, 2026-11-23: question captions are bait).
+  - §6: the last image leaves something open rather than a question for the comments.
+  - §1: reference artists are mood vocabulary only. Their methods were "kinda boring" as a route (T42–T47).
+  - §3: an impossible-palette set names its two main colours (T155–T162).
+  - §5: review also checks that the place still reads as impossible.
+- **Director's `SKILL.md`:** stage 0 now reads OWNER-TASTE.md first.
+
+**Next test.** The next Gemini session on a set or scene: does it name the baseline frame and keep to one change per round?

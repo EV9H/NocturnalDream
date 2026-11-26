@@ -21,7 +21,7 @@ Work in order. Skip a stage only when the user's brief has already settled it. O
 
 | Stage | Output | Read |
 | --- | --- | --- |
-| 0. Standard | Know what "good" means here, and the banned failure modes | [01 The bar](references/01-the-bar.md) |
+| 0. Standard | Know what "good" means here, and the banned failure modes | [Studio-Reference/OWNER-TASTE.md](../../OWNER-TASTE.md) first (they win over this skill where they disagree), then [01 The bar](references/01-the-bar.md) |
 | 1. Concept | Three candidates, one chosen, a one-page treatment | [02 Concept](references/02-concept.md) |
 | 2. Look | A named look with palette, light, lens, texture, sound | [03 Worlds and looks](references/03-worlds-and-looks.md) |
 | 3. Camera | Position, lens, light plan, composition, motion, materials | [04 Cinematography](references/04-cinematography.md) |

@@ -9,6 +9,8 @@ An image set is 6–9 stills posted as one 图文, swiped in order, with music. 
 
 These rules come from the owner's reactions to test images. They are still proposals until released sets have audience data. Change them when the owner's feedback or the data says so, and note what changed and why in the scene's REVIEW.md.
 
+**Read [Studio-Reference/OWNER-TASTE.md](../../OWNER-TASTE.md) first.** It holds the owner's later verdicts. Where it disagrees with this skill, it wins; it lists any known conflicts.
+
 **Target looks.** The owner's quality bar (2026-11-25) is four looks, one per lane, in [LOOKS.md](LOOKS.md):
 - **A:** 氛围柔光 soft glow.
 - **B:** 国风 shine.
@@ -30,7 +32,7 @@ Start every new set from one lane: its look block, its "there when" checks and i
 - Each set needs at least one clear oddity, usually in the cover or the last image, so the post passes the one-second test.
 - Play the oddity completely straight: the same light, grain and framing as the rest of the frame, no emphasis, as if the camera didn't notice it. Two or more oddities, or a staged, emphasised one, turn the image into fantasy illustration.
 
-**Reference artists.** Use them to set the look in the brief. Put at most one in a prompt.
+**Reference artists.** Use them as mood vocabulary in the brief, not as the look: the owner found these photographers' methods "kinda boring" as a route (T42–T47). The look comes from a capture device or a lane's look block. Put at most one artist in a prompt.
 - *One oddity, played straight:*
   - René Magritte (*The Empire of Light*: a night street under a day sky)
   - Gregory Crewdson (*Twilight*, *Beneath the Roses*: staged suburban dusk with one strange event)
@@ -64,7 +66,7 @@ Write about 200–250 words in five short parts. See [EXAMPLES.md](EXAMPLES.md) 
 2. **Camera and film.** For a set in a lane, paste that lane's look block from [LOOKS.md](LOOKS.md) here; it names its own camera, film, filter and palette. Otherwise:
    - Name one real camera, lens and film or sensor, the year, and how the print or file has aged.
    - Prefer cameras an ordinary person owned: a 35mm SLR, a rangefinder, a compact, a disposable.
-   - Let the film carry the colour. Don't add palette lists or diffusion filters.
+   - Let the film carry the colour, and don't add diffusion filters. When the set's oddity is a palette no real place has, name its two main colours in one line ("two main colours only: …"); don't list more.
 3. **Where the camera is.** A person's own viewpoint (a doorway, a seat, a window, standing height), with the tilt, what is sharp, and what is soft in front. Use a tripod or a high view only when the place calls for it.
 4. **The scene, with its light inside it.**
    - The place, the hour, and specific everyday objects near, middle and far.
@@ -101,7 +103,7 @@ For each image, write two separate things:
 - **Judgement:** whether it works, marked as yours until the owner confirms.
 
 Check:
-- Does it look like a real photo from the named camera and era, or like a render?
+- Does it look like a real photo from the named camera and era, or like a render? And does the place still read as impossible? A believable photo of a place that could exist fails (T155–T162).
 - Does it pass the one-second test as a thumbnail?
 - Is the impossible detail physically consistent with the light and space?
 - Any AI faults: warped geometry, melted hands, gibberish text, repeated windows or tiles?
@@ -120,7 +122,7 @@ Rules for every set:
 - Image 1 is the strongest image, not the establishing one.
 - Use one look across the set: copy the Look and era, Camera position and Light blocks into every prompt, and change only what the structure changes.
 - Cut between wide and close. Follow a world-scale wide with a macro of skin, a leaf, a droplet, a hand or a material, in the same light and palette. All the owner's references do this; most of our sets have stayed at one distance.
-- The last image pays off or leaves a question that people will answer in the comments.
+- The last image pays off, or leaves something open that lingers.
 - Lay the finished set side by side at phone size before posting. Check the light, colour and order.
 
 ## 7. Approval, records and release
@@ -134,6 +136,6 @@ Rules for every set:
   - Turn the AI label on. It has been mandatory since 2025-09-01.
   - Pick the music from each platform's in-app library; never upload outside tracks.
   - Write the title and caption in Chinese.
-  - End the caption with a question the viewer can answer from their own life.
+  - Write the caption as short, open, plain lines that add what the photo can't (sound, heat, time, absent people). No question to the viewer and no self-posted first comment: the owner calls both engagement bait.
   - Use 3–5 hashtags.
 - After release, log views, saves, comments and swipe-through per 1,000 views. Note which image the comments mention.

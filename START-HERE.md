@@ -1,5 +1,6 @@
 # Nocturnal Dream AI Studio
 
+- [Owner taste rules](Studio-Reference/OWNER-TASTE.md) collect the owner's verdicts on past rounds (what passed, what failed and why) for every agent. Read them before pitching, prompting or reviewing.
 - [Nocturnal Dream skill](Studio-Reference/Skills/nocturnal-dream/SKILL.md) gives agents the studio's creative rules and tells them which references to open for the job. Invoke `$nocturnal-dream` in Codex or `/nocturnal-dream` in Claude Code when you want to select it directly.
 - [Image-set skill](Studio-Reference/Skills/nocturnal-dream-image-sets/SKILL.md) covers the second product line: 6–9 liminal, photographic stills posted as one 图文 with music on Douyin and 小红书. Invoke `/nocturnal-dream-image-sets` in Claude Code or `$nocturnal-dream-image-sets` in Codex.
 - [Creative Bible index](Studio-Reference/Creative_Bible_v1.1.md) keeps the origin statement and revision history.
